@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Technological Craftsmanship Works ",
+    "description":"Especificação de produtos tecnológicos. Análise de viabilidade. Projeto de software e/ou hardware. Desenvolvimento do produto. Testes e aprimoramento. Divulgação à comunidade do processo de desenvolvimento do produto visando facilitar sua replicação. Criação de conteúdos digitais relacionados às ações de extensão.",
+    "image":"profilepic.jpg",
+    "bio":"Como universidade tecnológica, é de suma importância o incentivo ao estudo e aplicação de tecnologias modernas. Esta disciplina extensionista ofertada aos cursos da UTFPR aborda diretamente este assunto: a construção de trabalhos de artesanato tecnológico cujo processo de construção e replicação será disponibilizado à sociedade. Tais trabalhos, além de valorizar o nome da instituição como uma universidade tecnológica, irão incentivar o estudo de tecnologias em ambientes acadêmicos. Por fim, há previsão de pequenos eventos destinados à comunidade externa abordando aspectos específicos dos trabalhos tecnológicos desenvolvidos.",
+    "contactmessage":"É aqui que você deve escrever sua mensagem aos leitores para que eles entrem em contato com você.",
+    "email": "youremailhere@alunos.utfpr.edu.br",
+    "phone": "(41) 3310-4545",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"Av. Sete de Setembro, 3165",
+      "city":"Rebouças",
+      "state":"",
+      "zip": "80230-901"
+    },
+    "website": "",    
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sistel.UTFPR?mibextid=ZbWKwL",
+        "className":"fa fa-facebook"
+      },      
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/sistel.utfpr?igshid=MWZjMTM2ODFkZg==",
+        "className":"fa fa-instagram"
+      },      
+      {
+        "name":"Moodle",
+        "url":"http://www.utfpr.edu.br/alunos/portal-do-aluno",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+        "degree":"Professor: Marcos Eduardo Pivaro Monteiro",
+        "graduated":"2023",
+        "description":"..."
+      }
+    ],
+    "work":[
+      {
+        "company":"teste",
+        "title":"teste ",
+        "years":"2023 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"site ...",
+        "level":"60%"
+      },
+      {
+        "name":"Tutorial Packet Tracert ...",
+        "level":"40%"
+      },
+      {
+        "name":" Tutorial TinkerCircuits...",
+        "level":"50%"
+      },
+      {
+        "name":"Testador de cabos ...",
+        "level":"30%"
+      },
+      {
+        "name":"UTFPR EM 3D ...",
+        "level":"55%"
+      },
+      {
+        "name":"Syllabus ...",
+        "level":"40%"
+      },
+      {
+        "name":"Jaeger ...",
+        "level":"30%"
+      },
+      {
+        "name":"Semana Acadêmica ...",
+        "level":"80%"
+      }
+    ]
+  },
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tutorial Packet Tracert",
+        "category":"Projetos",
+        "image":"cisco.jpg",
+        "url":"https://github.com/Elton-Ti/Site-art",
+        "text":"O Cisco Packet Tracer é uma poderosa ferramenta de simulação de rede desenvolvida pela Cisco Systems. Ela permite que você pratique habilidades de rede, IoT e cibersegurança em um laboratório virtual, sem a necessidade de hardware. Com este tutorial, você vai aprender a compreender melhor o endereçamento IP, criar redes simples e mais complexas, visualizar como uma rede funciona, praticar habilidades de rack, cabeamento no laboratório virtual e integrar dispositivos.",
+        "alunos":"Amanda Alves Da Rocha", 
+        "video":"M_ICLwuP8NQ",
+        "images":["um.jpg","dois.jpg"]       
+      },     
+      {
+        "title":"Tutorial TinkerCircuits",
+        "category":"Projetos",
+        "image":"tinkercad.jpg",
+        "url":"",
+        "text":"Um dos principais desafios ao entrar no curso tecnólogo de sistemas de telecomunicações é entender de fato sistemas eletrônicos, como eles funcionam e a base da eletricidade. Este tutorial tem como objetivo disponibilizar conhecimentos valiosos que ajudarão a enfrentar esses desafios. Utilizando o TinkerCircuits, com auxílio desde a criação da conta, você poderá compreender melhor sobre tensão, indutores, capacitores, associação de resistores, algumas das leis relacionadas à eletricidade, construir circuitos simples e complexos, visualizar como um circuito funciona, entre outras coisas.",
+        "alunos":"Jacqueline Agatha" ,
+        "video":"pljx0UEcJZs",
+        "images":["01.png","02.png","03.png"]  
+      },     
+      {
+        "title":"Testador de cabos",
+        "category":"Projetos",
+        "image":"testador.jpg",
+        "url":"",
+        "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
+        "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella",
+        "video":"eMFnN2BfG3g" ,
+        "images":["01.png","02.png","03.png"]  
+      },     
+      {
+        "title":" UTFPR EM 3D",
+        "category":"Projetos",
+        "image":"utfpr3d.jpg",
+        "url":"",
+        "text":"O objetivo deste projeto foi criar o Bloco Q da UTFPR, que é o bloco ao qual ocorrem a maioria das aulas do curso de sistemas de telecomunicações, em um ambiente virtual 3D. Garantir que a representação seja precisa e fiel ao ambiente rea, criando elementos interativos para aprimorar a experiência do usuário.",
+        "alunos":"Scheila de Oliveira, Eduardo Rodrigues e Robson Morais", 
+        "video":"79RgT6w147o",
+        "images":["01.png","02.png","03.png"]  
+      },
+      {
+        "title":"Syllabus",
+        "category":"Projetos",
+        "image":"syllabus.jpg",
+        "url":"",
+        "text":"Com a troca de grade que ocorreu em nosso curso, inclusão de trilhas, horas aulas extencionistas, entre outras, veio junto algumas duvidas e também podendo gerar uma certa confusão na hora de fazer o calculo necessario para finalizar cada trilha ou objetivo do curso. Este projeto criara um sistema que ajudara a realizar o calculo necessario de horas que faltam para a formação dos alunos, integrado ao site da disciplina",
+        "alunos":"Lauro, Igor, Matheus Aparecido Pohl Gasoto", 
+        "video":"YYhqjUaRLzo",
+        "images":["01.png","02.png","03.png"]  
+      },
+      {
+        "title":"Jaeger",
+        "category":"Projetos",
+        "image":"robo.jpg",
+        "url":"",
+        "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
+        "alunos":"Giovani Giovanella, Gustavo de Souza Silveira",
+        "video":"84IEEw9Xyl0",
+        "images":["01.png","02.png","03.png"]   
+      },
+      {
+        "title":"Semana Acadêmica",
+        "category":"Projetos",
+        "image":"semana.jpg",
+        "url":"http://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-tecnologia-em-sistemas-de-telecomunicacoes/area-academica/eventos/satele2020",
+        "text":"A 2ª Semana Acadêmica de Telecomunicações tem por objetivo propiciar um espaço de troca de experiências e conhecimento técnico entre profissionais, estudantes, pesquisadores e alunos do curso de Tecnologia em Sistemas de Telecomunicações e de cursos afins. O evento é completamente gratuito e aberto a todos os alunos da UTFPR Curitiba, de outras instituições e à comunidade em geral. Após a inscrição e participação no evento, haverá emissão de certificados de participação.",
+        "alunos":"DAELN",
+        "video":"" ,
+        "images":["01.png","02.png","03.png"]  
+      }
+        
+    ]
+  }
+}
