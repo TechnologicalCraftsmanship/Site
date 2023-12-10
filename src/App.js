@@ -9,6 +9,10 @@ import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 import YouTubeVideo from './Components/YouTubeVideo';
+import Modal from 'react-modal';
+
+// Defina o elemento principal da aplicação para o react-modal
+Modal.setAppElement('#root'); // Substitua '#root' pelo seletor do elemento principal da sua aplicação
 
 class App extends Component {
   constructor(props) {

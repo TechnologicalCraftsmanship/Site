@@ -55,7 +55,7 @@
     "skills":[
       {
         "name":"site ...",
-        "level":"60%"
+        "level":"90%"
       },
       {
         "name":"Tutorial Packet Tracert ...",
@@ -63,15 +63,15 @@
       },
       {
         "name":" Tutorial TinkerCircuits...",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"Testador de cabos ...",
-        "level":"30%"
+        "level":"90%"
       },
       {
         "name":"UTFPR EM 3D ...",
-        "level":"55%"
+        "level":"75%"
       },
       {
         "name":"Syllabus ...",
@@ -79,7 +79,7 @@
       },
       {
         "name":"Jaeger ...",
-        "level":"30%"
+        "level":"80%"
       },
       {
         "name":"Semana Acadêmica ...",
@@ -96,8 +96,8 @@
         "image":"cisco.jpg",
         "url":"https://github.com/Elton-Ti/Site-art",
         "text":"O Cisco Packet Tracer é uma poderosa ferramenta de simulação de rede desenvolvida pela Cisco Systems. Ela permite que você pratique habilidades de rede, IoT e cibersegurança em um laboratório virtual, sem a necessidade de hardware. Com este tutorial, você vai aprender a compreender melhor o endereçamento IP, criar redes simples e mais complexas, visualizar como uma rede funciona, praticar habilidades de rack, cabeamento no laboratório virtual e integrar dispositivos.",
-        "alunos":"Amanda Alves Da Rocha", 
-        "video":"M_ICLwuP8NQ",
+        "alunos":"Lucas", 
+        "video":"Lm5GN4KORAQ",
         "images":["um.jpg","dois.jpg"]       
       },     
       {
@@ -105,10 +105,18 @@
         "category":"Projetos",
         "image":"tinkercad.jpg",
         "url":"",
-        "text":"Um dos principais desafios ao entrar no curso tecnólogo de sistemas de telecomunicações é entender de fato sistemas eletrônicos, como eles funcionam e a base da eletricidade. Este tutorial tem como objetivo disponibilizar conhecimentos valiosos que ajudarão a enfrentar esses desafios. Utilizando o TinkerCircuits, com auxílio desde a criação da conta, você poderá compreender melhor sobre tensão, indutores, capacitores, associação de resistores, algumas das leis relacionadas à eletricidade, construir circuitos simples e complexos, visualizar como um circuito funciona, entre outras coisas.",
+        "text":"TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
         "alunos":"Jacqueline Agatha" ,
-        "video":"pljx0UEcJZs",
-        "images":["01.png","02.png","03.png"]  
+        "video":"Z_sIbcqJKMk",
+        "video1":"fUc-liR7x4I",
+        "video2":"jz8y7DCpIXc",
+        "video3":"GuRtNrRkIFM",
+        "video4":"RY9pRcvYpK8",
+        "video5":"lfZMW1I8dxg",
+        "video6":"ywxPqnOWZyQ",
+        "video7":"rRS6dFmsOp4",
+        "images":[]  
+      
       },     
       {
         "title":"Testador de cabos",
@@ -117,18 +125,18 @@
         "url":"",
         "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
         "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella",
-        "video":"eMFnN2BfG3g" ,
-        "images":["01.png","02.png","03.png"]  
+        "video":"T7vAJqbtm5I" ,
+        "images":["cabo1.jpg"]  
       },     
       {
         "title":" UTFPR EM 3D",
         "category":"Projetos",
         "image":"utfpr3d.jpg",
         "url":"",
-        "text":"O objetivo deste projeto foi criar o Bloco Q da UTFPR, que é o bloco ao qual ocorrem a maioria das aulas do curso de sistemas de telecomunicações, em um ambiente virtual 3D. Garantir que a representação seja precisa e fiel ao ambiente rea, criando elementos interativos para aprimorar a experiência do usuário.",
+        "text":"Confidential C Habitamos em um mundo tridimensional, tudo o que podemos ver, como notebooks, computadores, o celular no qual você está lendo este conteúdo neste momento, por exemplo, tem três dimensões, assim como outros objetos que o cercam, mas não todos eles sabem responder o que é 3D. Mas o conceito longe de ser complicado. verdadeira questão é compreender o que é a chamada tecnologia 3D e como ela impacta nossas vidas. Esse entendimento pode revelar excelentes oportunidades de negócios para quem busca ingressar no mundo dos negócios ou uma carreira promissora para profissionais que pretendem se especializar na área.O que é 3D?3D é uma abreviatura que significa tridimensional. Esta é uma característica de ter formas geométricas tridimensionais, incluindo altura, profundeza e largura.Consequentemente, não há necessidade de usar esta palavra para definir o que nos rodeia.Assim, 3D em computação gráfica geralmente se refere as imagens e animações que transmitem profundidade ou efeito tridimensional, mesmo quando projetadas em uma tela plana.Para proporcionar um pouco dessa experiência em nosso curso, decidimos criar um projeto em 3D. Inicialmente, devíamos criar uma representação do bloco Q, onde a maioria das aulas de Sistemas de Telecomunicações ocorre. Em seguida, decidimos aumentar o desafio, desenvolvendo o projeto da Sede Centro da UTFPR. Utilizamos a planta do Campus como base.Confidential C Com a planta em mãos, iniciamos a criação da representação tridimensional da UTFPR usando o software Blender. Posteriormente, utilizamos a ferramenta Unity para compilar todo o trabalho, implementar melhorias e aprimorar os detalhes Parte inicial do projeto Vídeo Após todas as modificações o trabalho final: Video 2",
         "alunos":"Scheila de Oliveira, Eduardo Rodrigues e Robson Morais", 
         "video":"79RgT6w147o",
-        "images":["01.png","02.png","03.png"]  
+        "images":["3d1.jpg"]  
       },
       {
         "title":"Syllabus",
@@ -138,7 +146,7 @@
         "text":"Com a troca de grade que ocorreu em nosso curso, inclusão de trilhas, horas aulas extencionistas, entre outras, veio junto algumas duvidas e também podendo gerar uma certa confusão na hora de fazer o calculo necessario para finalizar cada trilha ou objetivo do curso. Este projeto criara um sistema que ajudara a realizar o calculo necessario de horas que faltam para a formação dos alunos, integrado ao site da disciplina",
         "alunos":"Lauro, Igor, Matheus Aparecido Pohl Gasoto", 
         "video":"YYhqjUaRLzo",
-        "images":["01.png","02.png","03.png"]  
+        "images":["um.jpg","dois.jpg"]  
       },
       {
         "title":"Jaeger",
@@ -148,7 +156,7 @@
         "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
         "alunos":"Giovani Giovanella, Gustavo de Souza Silveira",
         "video":"84IEEw9Xyl0",
-        "images":["01.png","02.png","03.png"]   
+        "images":["robo1.jpeg","robo2.png"]   
       },
       {
         "title":"Semana Acadêmica",
@@ -158,9 +166,23 @@
         "text":"A 2ª Semana Acadêmica de Telecomunicações tem por objetivo propiciar um espaço de troca de experiências e conhecimento técnico entre profissionais, estudantes, pesquisadores e alunos do curso de Tecnologia em Sistemas de Telecomunicações e de cursos afins. O evento é completamente gratuito e aberto a todos os alunos da UTFPR Curitiba, de outras instituições e à comunidade em geral. Após a inscrição e participação no evento, haverá emissão de certificados de participação.",
         "alunos":"DAELN",
         "video":"" ,
-        "images":["01.png","02.png","03.png"]  
+        "images":["um.jpg","dois.jpg"]  
+      },
+      {
+        "title":"Amanda Rocha",
+        "category":"Projetos",
+        "image":"05.jpg",
+        "url":"",
+        "text":"",
+        "alunos":"Amanda Alves Da Rocha",
+        "video":"JJaNHlEqsvo",
+        "video1":"UY8IkrmxPAg",
+        "video2":"1tlLXFR06s4",
+        "video3":"HP0NRAks0ic",
+        "video4":"_CfUlTkdMgA",
+        "images":[] 
+         
       }
-        
     ]
   }
 }
