@@ -94,11 +94,14 @@
         "title":"Tutorial Packet Tracert",
         "category":"Projetos",
         "image":"cisco.jpg",
-        "url":"https://github.com/Elton-Ti/Site-art",
-        "text":"O Cisco Packet Tracer é uma poderosa ferramenta de simulação de rede desenvolvida pela Cisco Systems. Ela permite que você pratique habilidades de rede, IoT e cibersegurança em um laboratório virtual, sem a necessidade de hardware. Com este tutorial, você vai aprender a compreender melhor o endereçamento IP, criar redes simples e mais complexas, visualizar como uma rede funciona, praticar habilidades de rack, cabeamento no laboratório virtual e integrar dispositivos.",
+        "url":"",
+        "text":"Nessa série de gravações foi realizado vídeos educativos utilizando o Packet Tracer. Nos tutoriais, abordamos de maneira abrangente os fundamentos de redes, incluindo conceitos essenciais, como topologia de rede, roteamento estático e dinâmico, além de VLANs. A proposta é oferecer uma compreensão sólida desses tópicos fundamentais, proporcionando aos espectadores conhecimentos práticos que são aplicáveis em diversos contextos. Essa iniciativa visa capacitar profissionais e entusiastas a aprimorar suas habilidades em redes, contribuindo para um entendimento mais profundo e eficiente desses conceitos.",
         "alunos":"Lucas", 
         "video":"Lm5GN4KORAQ",
-        "images":[]       
+        "video1":"iTwQI9AeUDQ",
+        "video2":"PzhBhpiDB_c",
+        "video3":"KVR-MTDf4QE",
+        "images":["cisco1.jpg"]       
       },     
       {
         "title":"Tutorial TinkerCircuits",
@@ -142,25 +145,17 @@
 
         "images":["3d1.jpg"]  
       },
-      {
-        "title":"Syllabus",
-        "category":"Projetos",
-        "image":"syllabus.jpg",
-        "url":"",
-        "text":"Com a troca de grade que ocorreu em nosso curso, inclusão de trilhas, horas aulas extencionistas, entre outras, veio junto algumas duvidas e também podendo gerar uma certa confusão na hora de fazer o calculo necessario para finalizar cada trilha ou objetivo do curso. Este projeto criara um sistema que ajudara a realizar o calculo necessario de horas que faltam para a formação dos alunos, integrado ao site da disciplina",
-        "alunos":"Lauro, Igor, Matheus Aparecido Pohl Gasoto", 
-        "video":"YYhqjUaRLzo",
-        "images":["um.jpg","dois.jpg"]  
-      },
+      
       {
         "title":"Jaeger",
         "category":"Projetos",
         "image":"robo.jpg",
         "url":"",
         "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
-        "alunos":"Giovani Giovanella, Gustavo de Souza Silveira",
-        "video":"84IEEw9Xyl0",
-        "images":["robo1.jpeg","robo2.png"]   
+        "alunos":"Giovani Giovanella, Gustavo de Souza Silveira",        
+        "video":"aCylclYlQVQ",
+        "video1":"jtzFjJ3v7J8",
+        "images":["robo1.jpeg","robo2.png"] 
       },
       
       {
@@ -175,6 +170,7 @@
         "video2":"1tlLXFR06s4",
         "video3":"HP0NRAks0ic",
         "video4":"_CfUlTkdMgA",
+        "video5":"Xjtu4Ow_nwU",
         "images":[] 
          
       },
@@ -184,9 +180,8 @@
         "category":"Projetos",
         "image":"placas.jpg",
         "url":"",
-        "text":"O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico",
-        "alunos":"Paulo Ricardo Nabosne",
-        "video":"",
+        "text": "O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico. O sistema de rastreamento solar opera de maneira coordenada. Primeiro, fotossensores são estrategicamente posicionados para monitorar a intensidade da luz solar em diversas direções. Com base nas leituras desses fotossensores, um controlador calcula a posição atual do sol no céu. Em seguida, servo motores entram em ação, ajustando o ângulo das placas solares para que elas permaneçam sempre perpendiculares à direção do sol. Esse processo de detecção, cálculo e ajuste das placas solares ocorre continuamente ao longo do dia, permitindo que o sistema rastreie o movimento do sol no céu e otimize a captação de energia solar de forma eficiente. Recursos necessários:- Impressora 3D,- 4x Placa Solar (CNC110x60-6),- 2x Servomotor (SG-90),- 1x Arduino,- 1x Regulador de Tensão 12V,- 4x Fotossensor (LDR 05mm),- 4x Resistor 4,7k,- 1x Sensor de tensão e corrente (INA219),- 1x Display LCD 16x3,- 1x Rolamento com 5mm de diâmetro interno,- 1x Caixa de madeira/metal",
+        "video":"S3zlEvh9zIk",
         "video1":"",
         "video2":"",
         "video3":"",

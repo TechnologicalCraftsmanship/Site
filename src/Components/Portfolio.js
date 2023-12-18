@@ -8,7 +8,10 @@ import "./CustomImageCarousel.module.css"; // Importe os estilos CSS diretamente
 
 const PortfolioItem = ({ project, onClick }) => (
   <div className="columns portfolio-item">
-    <div className="item-wrap" style={{ border: "1px #ddd", borderRadius: "8px", padding: "1px" }}>
+    <div
+      className="item-wrap"
+      style={{ border: "1px #ddd", borderRadius: "8px", padding: "1px" }}
+    >
       <Zmage
         alt={project.title}
         src={`images/portfolio/${project.image}`}
