@@ -55,23 +55,23 @@
     "skills":[
       {
         "name":"site ...",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Tutorial Packet Tracert ...",
-        "level":"40%"
+        "level":"100%"
       },
       {
         "name":" Tutorial TinkerCircuits...",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Testador de cabos ...",
-        "level":"90%"
+        "level":"75%"
       },
       {
         "name":"UTFPR EM 3D ...",
-        "level":"75%"
+        "level":"40%"
       },
       {
         "name":"Syllabus ...",
@@ -79,11 +79,11 @@
       },
       {
         "name":"Jaeger ...",
-        "level":"80%"
+        "level":"75%"
       },
       {
         "name":"Semana Acadêmica ...",
-        "level":"80%"
+        "level":"100%"
       }
     ]
   },
@@ -98,7 +98,7 @@
         "text":"O Cisco Packet Tracer é uma poderosa ferramenta de simulação de rede desenvolvida pela Cisco Systems. Ela permite que você pratique habilidades de rede, IoT e cibersegurança em um laboratório virtual, sem a necessidade de hardware. Com este tutorial, você vai aprender a compreender melhor o endereçamento IP, criar redes simples e mais complexas, visualizar como uma rede funciona, praticar habilidades de rack, cabeamento no laboratório virtual e integrar dispositivos.",
         "alunos":"Lucas", 
         "video":"Lm5GN4KORAQ",
-        "images":["um.jpg","dois.jpg"]       
+        "images":[]       
       },     
       {
         "title":"Tutorial TinkerCircuits",
@@ -127,7 +127,7 @@
         "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
         "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella",
         "video":"T7vAJqbtm5I" ,
-        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg"]  
+        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg","cabo5.jpg"]  
       },     
       {
         "title":" UTFPR EM 3D",
@@ -176,6 +176,22 @@
         "video3":"HP0NRAks0ic",
         "video4":"_CfUlTkdMgA",
         "images":[] 
+         
+      },
+      
+      {
+        "title":"Rastreamento Solar",
+        "category":"Projetos",
+        "image":"placas.jpg",
+        "url":"https://github.com/ricklineage/placasolar/blob/main/codigo",
+        "text":"O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico",
+        "alunos":"Paulo Ricardo Nabosne",
+        "video":"",
+        "video1":"",
+        "video2":"",
+        "video3":"",
+        "video4":"",
+        "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"] 
          
       }
     ]
