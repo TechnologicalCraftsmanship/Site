@@ -115,6 +115,7 @@
         "video5":"lfZMW1I8dxg",
         "video6":"ywxPqnOWZyQ",
         "video7":"rRS6dFmsOp4",
+        "video8":"bg1WwD_-guM",
         "images":[]  
       
       },     
@@ -126,7 +127,7 @@
         "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
         "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella",
         "video":"T7vAJqbtm5I" ,
-        "images":["cabo1.jpg"]  
+        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg"]  
       },     
       {
         "title":" UTFPR EM 3D",
@@ -135,7 +136,10 @@
         "url":"",
         "text":"Confidential C Habitamos em um mundo tridimensional, tudo o que podemos ver, como notebooks, computadores, o celular no qual você está lendo este conteúdo neste momento, por exemplo, tem três dimensões, assim como outros objetos que o cercam, mas não todos eles sabem responder o que é 3D. Mas o conceito longe de ser complicado. verdadeira questão é compreender o que é a chamada tecnologia 3D e como ela impacta nossas vidas. Esse entendimento pode revelar excelentes oportunidades de negócios para quem busca ingressar no mundo dos negócios ou uma carreira promissora para profissionais que pretendem se especializar na área.O que é 3D?3D é uma abreviatura que significa tridimensional. Esta é uma característica de ter formas geométricas tridimensionais, incluindo altura, profundeza e largura.Consequentemente, não há necessidade de usar esta palavra para definir o que nos rodeia.Assim, 3D em computação gráfica geralmente se refere as imagens e animações que transmitem profundidade ou efeito tridimensional, mesmo quando projetadas em uma tela plana.Para proporcionar um pouco dessa experiência em nosso curso, decidimos criar um projeto em 3D. Inicialmente, devíamos criar uma representação do bloco Q, onde a maioria das aulas de Sistemas de Telecomunicações ocorre. Em seguida, decidimos aumentar o desafio, desenvolvendo o projeto da Sede Centro da UTFPR. Utilizamos a planta do Campus como base.Confidential C Com a planta em mãos, iniciamos a criação da representação tridimensional da UTFPR usando o software Blender. Posteriormente, utilizamos a ferramenta Unity para compilar todo o trabalho, implementar melhorias e aprimorar os detalhes Parte inicial do projeto Vídeo Após todas as modificações o trabalho final: Video 2",
         "alunos":"Scheila de Oliveira, Eduardo Rodrigues e Robson Morais", 
-        "video":"79RgT6w147o",
+        "video":"7bGGGD-zVstg",
+        "video1":"m15QzleP0gQ",
+        "video2":"oGxO6tGJtbQ",
+
         "images":["3d1.jpg"]  
       },
       {
@@ -158,22 +162,13 @@
         "video":"84IEEw9Xyl0",
         "images":["robo1.jpeg","robo2.png"]   
       },
+      
       {
-        "title":"Semana Acadêmica",
-        "category":"Projetos",
-        "image":"semana.jpg",
-        "url":"http://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-tecnologia-em-sistemas-de-telecomunicacoes/area-academica/eventos/satele2020",
-        "text":"A 2ª Semana Acadêmica de Telecomunicações tem por objetivo propiciar um espaço de troca de experiências e conhecimento técnico entre profissionais, estudantes, pesquisadores e alunos do curso de Tecnologia em Sistemas de Telecomunicações e de cursos afins. O evento é completamente gratuito e aberto a todos os alunos da UTFPR Curitiba, de outras instituições e à comunidade em geral. Após a inscrição e participação no evento, haverá emissão de certificados de participação.",
-        "alunos":"DAELN",
-        "video":"" ,
-        "images":["um.jpg","dois.jpg"]  
-      },
-      {
-        "title":"Amanda Rocha",
+        "title":"Introdução a Sistemas de Telecomunicações",
         "category":"Projetos",
         "image":"05.jpg",
         "url":"",
-        "text":"",
+        "text":"Tutorial: Introdução a Sistemas de Telecomunicações O projeto consiste na montagem de vídeos por meio de animação e narração via Inteligência Artificial sobre introdução a sistemas de telecomunicações. Os vídeos são como aulas, buscando relembrar e atualizar as referências sobre os devidos temas. Os temas dos vídeos são: Jitter , Latência e Ping em redes de computadores  Funcionalidades das Redes NGN. Convergência  Evoluções das Redes Legadas  Evoluções das Redes Móveis  Satélite de baixa órbita e aplicações no Agro Negócios  Evoluções em ambientes de Redes de telefonia móveis Negócios de Torreiras no Mercado Comunicações Móveis",
         "alunos":"Amanda Alves Da Rocha",
         "video":"JJaNHlEqsvo",
         "video1":"UY8IkrmxPAg",

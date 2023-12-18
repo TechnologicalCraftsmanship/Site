@@ -49,6 +49,7 @@ const ProjectModal = ({ selectedProject, closeModal }) => (
 {selectedProject.video5 && <YouTubeVideo videoId={selectedProject.video5} />}
 {selectedProject.video6 && <YouTubeVideo videoId={selectedProject.video6} />}
 {selectedProject.video7 && <YouTubeVideo videoId={selectedProject.video7} />}
+{selectedProject.video8 && <YouTubeVideo videoId={selectedProject.video8} />}
     </div>
 
     <p></p>
