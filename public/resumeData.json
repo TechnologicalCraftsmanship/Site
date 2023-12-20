@@ -1,11 +1,10 @@
 {
   "main": {
     "name":"Technological Craftsmanship Works ",
-    "description":"Este é o site oficial para a divulgação dos trabalhos realizados na disciplina Technological Craftsmanship Works da UTFPR - Campus Curitiba.
-Mais informações podem ser encontradas em: https://www.youtube.com/@TechnologicalCraftsmanship",
+    "description":"Este é o site oficial para a divulgação dos trabalhos realizados na disciplina Technological Craftsmanship Works da UTFPR - Campus Curitiba.Mais informações podem ser encontradas em: https://www.youtube.com/@TechnologicalCraftsmanship",
     "image":"profilepic.jpg",
     "bio":"Como universidade tecnológica, é de suma importância o incentivo ao estudo e aplicação de tecnologias modernas. Esta disciplina extensionista ofertada aos cursos da UTFPR aborda diretamente este assunto: a construção de trabalhos de artesanato tecnológico cujo processo de construção e replicação será disponibilizado à sociedade. Tais trabalhos, além de valorizar o nome da instituição como uma universidade tecnológica, irão incentivar o estudo de tecnologias em ambientes acadêmicos. Por fim, há previsão de pequenos eventos destinados à comunidade externa abordando aspectos específicos dos trabalhos tecnológicos desenvolvidos.",
-    "contactmessage":"Entre em contato através do e-mail:",
+    "contactmessage":"Entre em contato através do e-mail.",
     "email": "technologicalcraftsmanship@gmail.com",
     "phone": "Entre em contato através do e-mail.",
     "github":"https://github.com/TechnologicalCraftsmanship",
