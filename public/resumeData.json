@@ -1,13 +1,14 @@
 {
   "main": {
     "name":"Technological Craftsmanship Works ",
-    "description":"Especificação de produtos tecnológicos. Análise de viabilidade. Projeto de software e/ou hardware. Desenvolvimento do produto. Testes e aprimoramento. Divulgação à comunidade do processo de desenvolvimento do produto visando facilitar sua replicação. Criação de conteúdos digitais relacionados às ações de extensão.",
+    "description":"Este é o site oficial para a divulgação dos trabalhos realizados na disciplina Technological Craftsmanship Works da UTFPR - Campus Curitiba.
+Mais informações podem ser encontradas em: https://www.youtube.com/@TechnologicalCraftsmanship",
     "image":"profilepic.jpg",
     "bio":"Como universidade tecnológica, é de suma importância o incentivo ao estudo e aplicação de tecnologias modernas. Esta disciplina extensionista ofertada aos cursos da UTFPR aborda diretamente este assunto: a construção de trabalhos de artesanato tecnológico cujo processo de construção e replicação será disponibilizado à sociedade. Tais trabalhos, além de valorizar o nome da instituição como uma universidade tecnológica, irão incentivar o estudo de tecnologias em ambientes acadêmicos. Por fim, há previsão de pequenos eventos destinados à comunidade externa abordando aspectos específicos dos trabalhos tecnológicos desenvolvidos.",
-    "contactmessage":"É aqui que você deve escrever sua mensagem aos leitores para que eles entrem em contato com você.",
-    "email": "youremailhere@alunos.utfpr.edu.br",
-    "phone": "(41) 3310-4545",
-    "github":"",
+    "contactmessage":"Entre em contato através do e-mail:",
+    "email": "technologicalcraftsmanship@gmail.com",
+    "phone": "Entre em contato através do e-mail.",
+    "github":"https://github.com/TechnologicalCraftsmanship",
     "project":"",
     "address":{
       "street":"Av. Sete de Setembro, 3165",
