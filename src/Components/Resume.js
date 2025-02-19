@@ -10,7 +10,6 @@ class Resume extends Component {
     }
     return color;
   }
-
   render() {
     if (!this.props.data) return null;
 
@@ -41,18 +40,34 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.level;
-
+    const skills = this.props.data.skills.map((skill) => {
+      let backgroundColor;
+      
+      switch (skill.status) {
+        case "ongoing":
+          backgroundColor = "#4CAF50"; // Vibrant green
+          break;
+        case "stopped":
+          backgroundColor = "#F44336"; // Vivid red
+          break;
+        case "done":
+          backgroundColor = "#2196F3"; // Striking blue
+          break;
+        default:
+          backgroundColor = "#9E9E9E"; // Neutral gray
+      }
+      
+      const className = "bar-expand " + skill.name.toLowerCase();
+      const width = skill.level;
+      
       return (
-        <li key={skills.name}>
+        <li key={skill.name}>
           <span style={{ width, backgroundColor }} className={className}></span>
-          <em>{skills.name}</em>
+          <em>{skill.name}</em>
         </li>
       );
     });
+    
 
     return (
       <section id="resume">        

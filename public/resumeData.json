@@ -54,55 +54,77 @@
     ],
     "skills":[
       {
-        "name":"site ...",
-        "level":"100%"
-      },
-      {
         "name":"Tutorial Packet Tracert ...",
-        "level":"100%"
+        "level":"100%",
+        "status": "done"
       },
       {
         "name":" Tutorial TinkerCircuits...",
-        "level":"100%"
+        "level":"100%",
+        "status": "done"
       },
       {
         "name":"Testador de cabos ...",
-        "level":"75%"
+        "level":"75%",
+        "status": "stopped"
       },
       {
         "name":"UTFPR EM 3D ...",
-        "level":"40%"
+        "level":"40%",
+        "status": "ongoing"
       },      
       {
         "name":"Jaeger ...",
-        "level":"75%"
+        "level":"75%",
+        "status": "ongoing"
       },
       {
-        "name":"Semana Acadêmica ...",
-        "level":"100%"
+        "name":"Integração com moodle",
+        "level":"7%",
+        "status": "ongoing"
+      },
+      {
+        "name":"Aplicativo de Gestão Financeira",
+        "level":"5%",
+        "status": "ongoing"
+      },
+      {
+        "name":"Esqueleto do Jogo Mobile/VR da UTFPR",
+        "level":"8%",
+        "status": "ongoing"
+      },
+      {
+        "name":"Sistema para auxiliar na coleta de lixo",
+        "level":"3%",
+        "status": "ongoing"
       }
     ]
   },
   
   "portfolio":{
-    "projects": [
-      {
-        "title":"Tutorial Packet Tracert",
-        "category":"Projetos",
-        "image":"cisco.jpg",
-        "url":"",
-        "text":"Nessa série de gravações foi realizado vídeos educativos utilizando o Packet Tracer. Nos tutoriais, abordamos de maneira abrangente os fundamentos de redes, incluindo conceitos essenciais, como topologia de rede, roteamento estático e dinâmico, além de VLANs. A proposta é oferecer uma compreensão sólida desses tópicos fundamentais, proporcionando aos espectadores conhecimentos práticos que são aplicáveis em diversos contextos. Essa iniciativa visa capacitar profissionais e entusiastas a aprimorar suas habilidades em redes, contribuindo para um entendimento mais profundo e eficiente desses conceitos.",
-        "alunos":"Lucas Cristian de Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-        "video":"Lm5GN4KORAQ",
-        "video1":"iTwQI9AeUDQ",
-        "video2":"PzhBhpiDB_c",
-        "video3":"KVR-MTDf4QE",
-        "images":["cisco1.jpg"]       
-      },     
+    "projects": {
+      "done": [
+        {
+          "title":"Tutorial Packet Tracert",
+          "category":"Projetos",
+          "image":"cisco.jpg",
+          "url":"",
+          "text":"Nessa série de gravações foi realizado vídeos educativos utilizando o Packet Tracer. Nos tutoriais, abordamos de maneira abrangente os fundamentos de redes, incluindo conceitos essenciais, como topologia de rede, roteamento estático e dinâmico, além de VLANs. A proposta é oferecer uma compreensão sólida desses tópicos fundamentais, proporcionando aos espectadores conhecimentos práticos que são aplicáveis em diversos contextos. Essa iniciativa visa capacitar profissionais e entusiastas a aprimorar suas habilidades em redes, contribuindo para um entendimento mais profundo e eficiente desses conceitos.",
+          "alunos":"Lucas Cristian de Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
+          "video":"Lm5GN4KORAQ",
+          "video1":"iTwQI9AeUDQ",
+          "video2":"PzhBhpiDB_c",
+          "video3":"KVR-MTDf4QE",
+          "images":["cisco1.jpg"],
+          "icon": "done.svg"   
+        }
+      ],  
+
+      "ongoing": [
       {
         "title":"Tutorial TinkerCircuits",
         "category":"Projetos",
-        "image":"tinkercad.jpg",
+        "image":"testador.jpg",
         "url":"",
         "text":"TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
         "alunos":"Jacqueline Agatha. Coordenação: Prof. Marcos Eduardo P. Monteiro" ,
@@ -115,9 +137,10 @@
         "video6":"ywxPqnOWZyQ",
         "video7":"rRS6dFmsOp4",
         "video8":"bg1WwD_-guM",
-        "images":[]  
-      
+        "images":[],
+        "icon": "done.svg"  
       },     
+    
       {
         "title":"Testador de cabos",
         "category":"Projetos",
@@ -126,8 +149,10 @@
         "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
         "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella. Coordenação: Prof. Marcos Eduardo P. Monteiro",
         "video":"T7vAJqbtm5I" ,
-        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg","cabo5.jpg"]  
+        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg","cabo5.jpg"],
+        "icon": "stopped.svg"  
       },     
+
       {
         "title":" UTFPR EM 3D",
         "category":"Projetos",
@@ -138,7 +163,8 @@
         "video":"bGGGD-zVstg",
         "video1":"oGxO6tGJtbQ",
         "video2":"m15QzleP0gQ",
-        "images":["3d1.jpg"]  
+        "images":["3d1.jpg"],
+        "icon": "ongoing.svg" 
       },
       
       {
@@ -150,7 +176,8 @@
         "alunos":"Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",        
         "video":"aCylclYlQVQ",
         "video1":"jtzFjJ3v7J8",
-        "images":["robo1.jpeg","robo2.png"] 
+        "images":["robo1.jpeg","robo2.png"],
+        "icon": "ongoing.svg" 
       },
       
       {
@@ -166,7 +193,8 @@
         "video3":"HP0NRAks0ic",
         "video4":"_CfUlTkdMgA",
         "video5":"Xjtu4Ow_nwU",
-        "images":[] 
+        "images":[],
+        "icon": "done.svg" 
          
       },
       
@@ -182,9 +210,26 @@
         "video2":"",
         "video3":"",
         "video4":"",
-        "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"] 
+        "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
+        "icon": "stopped.svg" 
          
+      },
+
+      {
+        "title":"Integração com moodle",
+        "category":"Projetos",
+        "image":"testador.jpg",
+        "url":"",
+        "text":"Integração do moodle Trello ou Calendário do Google",
+        "alunos":"David Bonfim, Gustavo De Oliveira Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
+        "video":"",
+        "video1":"",
+        "video2":"",
+        "video3":"",
+        "images":[""],
+        "icon": "ongoing.svg"   
       }
-    ]
+     ]
+    }
   }
 }
