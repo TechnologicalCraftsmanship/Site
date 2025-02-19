@@ -18,71 +18,86 @@ const PortfolioItem = ({ project, onClick }) => (
         onClick={() => onClick(project)}
         className="portfolio-image"
         style={{
-          border: "1px solid #ddd", // Adiciona uma borda simples
-          borderRadius: "8px", // Adiciona bordas arredondadas, ajuste conforme necessário
+          border: "1px solid #ddd",
+          borderRadius: "8px",
         }}
       />
-      <div className="portfolio-title" style={{ textAlign: "center" }}>
-        {project.title}
+      <div
+        className="portfolio-title"
+        style={{ textAlign: "center", marginTop: "8px" }}
+      >
+        <span style={{ display: "inline-block", fontSize: "1em", fontWeight: "regular" }}>
+          {project.title}
+          <img
+            src={`images/portfolio/icons/${project.icon}`}
+            alt={`${project.title} icon`}
+            style={{
+              verticalAlign: "middle",
+              marginLeft: "8px",
+              height: "1em",
+              width: "auto",
+            }}
+          />
+        </span>
       </div>
     </div>
   </div>
 );
 
+
+
 const ProjectModal = ({ selectedProject, closeModal }) => (
   <div>
-    <h2>{selectedProject.title}</h2>
+    <div
+      style={{
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "flex-start",
+        marginBottom: "1rem",
+      }}
+    >
+      <span style={{ fontSize: "1.5em", fontWeight: "bold" }}>
+        {selectedProject.title}
+      </span>
+      {selectedProject.icon && (
+        <img
+        src={`images/portfolio/icons/${selectedProject.icon}`}
+        alt={`${selectedProject.title} icon`}
+        style={{ height: "1.5em", width: "auto", marginLeft: "8px" }}
+        />
+      )}
+    </div>
     <p>{selectedProject.description}</p>
     <h6>{selectedProject.alunos}</h6>
     <br />
     <br />
-
     <CustomImageCarousel images={selectedProject.images} />
     <br />
     <br />
     <br />
-
     <div className="modal-content">
       <span className="modal-text">{selectedProject.text}</span>
       <br />
       <br />
       <br />
-
-      {selectedProject.video && (
-        <YouTubeVideo videoId={selectedProject.video} />
-      )}
-      {selectedProject.video1 && (
-        <YouTubeVideo videoId={selectedProject.video1} />
-      )}
-      {selectedProject.video2 && (
-        <YouTubeVideo videoId={selectedProject.video2} />
-      )}
-      {selectedProject.video3 && (
-        <YouTubeVideo videoId={selectedProject.video3} />
-      )}
-      {selectedProject.video4 && (
-        <YouTubeVideo videoId={selectedProject.video4} />
-      )}
-      {selectedProject.video5 && (
-        <YouTubeVideo videoId={selectedProject.video5} />
-      )}
-      {selectedProject.video6 && (
-        <YouTubeVideo videoId={selectedProject.video6} />
-      )}
-      {selectedProject.video7 && (
-        <YouTubeVideo videoId={selectedProject.video7} />
-      )}
-      {selectedProject.video8 && (
-        <YouTubeVideo videoId={selectedProject.video8} />
-      )}
+      {selectedProject.video && <YouTubeVideo videoId={selectedProject.video} />}
+      {selectedProject.video1 && <YouTubeVideo videoId={selectedProject.video1} />}
+      {selectedProject.video2 && <YouTubeVideo videoId={selectedProject.video2} />}
+      {selectedProject.video3 && <YouTubeVideo videoId={selectedProject.video3} />}
+      {selectedProject.video4 && <YouTubeVideo videoId={selectedProject.video4} />}
+      {selectedProject.video5 && <YouTubeVideo videoId={selectedProject.video5} />}
+      {selectedProject.video6 && <YouTubeVideo videoId={selectedProject.video6} />}
+      {selectedProject.video7 && <YouTubeVideo videoId={selectedProject.video7} />}
+      {selectedProject.video8 && <YouTubeVideo videoId={selectedProject.video8} />}
     </div>
-
     <p></p>
     <a href={selectedProject.url} target="_blank" rel="noopener noreferrer">
       Saiba mais
     </a>
   </div>
 );
+
+
 
 const Portfolio = ({ data }) => {
   const [modalOpen, setModalOpen] = useState(false);
@@ -96,12 +111,16 @@ const Portfolio = ({ data }) => {
   const closeModal = () => {
     setModalOpen(false);
     setSelectedProject(null);
-  };
+  };  
 
   if (!data) return null;
 
-  const projects = data.projects.map((project, index) => (
-    <PortfolioItem key={index} project={project} onClick={openModal} />
+  const projectsDone = data.projects.done.map((done, index) => (
+    <PortfolioItem key={index} project={done} onClick={openModal} />
+  ));
+
+  const projectsOngoing = data.projects.ongoing.map((ongoing, index) => (
+    <PortfolioItem key={index} project={ongoing} onClick={openModal} />
   ));
 
   return (
@@ -109,7 +128,7 @@ const Portfolio = ({ data }) => {
       <Fade left duration={1000} distance="40px">
         <div className="row" style={{ borderRadius: "20%" }}>
           <div className="twelve columns collapsed">
-            <h1>Projetos dos Alunos</h1>
+            <h1>Projetos em andamento</h1>
             <div
               id="portfolio-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
@@ -119,7 +138,20 @@ const Portfolio = ({ data }) => {
                 padding: "20px",
               }}
             >
-              {projects}
+              {projectsOngoing}
+              </div>
+              <hr style={{ margin: "40px 0", borderTop: "2px solid #ccc" }} />
+            <h1>Projetos concluidos</h1>
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+              style={{
+                border: "1px solid #ddd",
+                borderRadius: "8px",
+                padding: "20px",
+              }}
+            >
+              {projectsDone}
             </div>
           </div>
         </div>
