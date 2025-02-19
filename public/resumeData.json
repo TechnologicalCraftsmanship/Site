@@ -105,6 +105,26 @@
     "projects": {
       "done": [
         {
+          "title":"Tutorial TinkerCircuits",
+          "category":"Projetos",
+          "image":"tinkercad.jpg",
+          "url":"",
+          "text":"TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
+          "alunos":"Jacqueline Agatha. Coordenação: Prof. Marcos Eduardo P. Monteiro" ,
+          "video":"Z_sIbcqJKMk",
+          "video1":"fUc-liR7x4I",
+          "video2":"jz8y7DCpIXc",
+          "video3":"GuRtNrRkIFM",
+          "video4":"RY9pRcvYpK8",
+          "video5":"lfZMW1I8dxg",
+          "video6":"ywxPqnOWZyQ",
+          "video7":"rRS6dFmsOp4",
+          "video8":"bg1WwD_-guM",
+          "images":[],
+          "icon": "done.svg"  
+        },
+        
+        {
           "title":"Tutorial Packet Tracert",
           "category":"Projetos",
           "image":"cisco.jpg",
@@ -120,26 +140,7 @@
         }
       ],  
 
-      "ongoing": [
-      {
-        "title":"Tutorial TinkerCircuits",
-        "category":"Projetos",
-        "image":"testador.jpg",
-        "url":"",
-        "text":"TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
-        "alunos":"Jacqueline Agatha. Coordenação: Prof. Marcos Eduardo P. Monteiro" ,
-        "video":"Z_sIbcqJKMk",
-        "video1":"fUc-liR7x4I",
-        "video2":"jz8y7DCpIXc",
-        "video3":"GuRtNrRkIFM",
-        "video4":"RY9pRcvYpK8",
-        "video5":"lfZMW1I8dxg",
-        "video6":"ywxPqnOWZyQ",
-        "video7":"rRS6dFmsOp4",
-        "video8":"bg1WwD_-guM",
-        "images":[],
-        "icon": "done.svg"  
-      },     
+      "ongoing": [     
     
       {
         "title":"Testador de cabos",
@@ -213,21 +214,6 @@
         "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
         "icon": "stopped.svg" 
          
-      },
-
-      {
-        "title":"Integração com moodle",
-        "category":"Projetos",
-        "image":"testador.jpg",
-        "url":"",
-        "text":"Integração do moodle Trello ou Calendário do Google",
-        "alunos":"David Bonfim, Gustavo De Oliveira Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-        "video":"",
-        "video1":"",
-        "video2":"",
-        "video3":"",
-        "images":[""],
-        "icon": "ongoing.svg"   
       }
      ]
     }
