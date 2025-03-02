@@ -56,10 +56,30 @@
       {
         "name":"Tutorial Packet Tracert ...",
         "level":"100%",
+        "status":"done"
+      },
+      {
+        "name": "Tutorial TinkerCircuits",
+        "level": "100%",
         "status": "done"
       },
       {
-        "name":" Tutorial TinkerCircuits...",
+        "name":"Introdução a Sistemas de Telecomunicações",
+        "level":"100%",
+        "status":"done"
+      },
+      {
+        "name":"Reciclapp",
+        "level":"100%",
+        "status": "done"
+      },
+      {
+        "name":"Integração com moodle",
+        "level":"100%",
+        "status": "done"
+      },
+      {
+        "name":"Salve Gaia",
         "level":"100%",
         "status": "done"
       },
@@ -67,6 +87,11 @@
         "name":"Testador de cabos ...",
         "level":"75%",
         "status": "stopped"
+      },
+      {
+        "name":"Rastreamento Solar",
+        "level":"75%",
+        "status":"stopped"
       },
       {
         "name":"UTFPR EM 3D ...",
@@ -79,23 +104,8 @@
         "status": "ongoing"
       },
       {
-        "name":"Integração com moodle",
-        "level":"7%",
-        "status": "ongoing"
-      },
-      {
-        "name":"Aplicativo de Gestão Financeira",
-        "level":"5%",
-        "status": "ongoing"
-      },
-      {
-        "name":"Esqueleto do Jogo Mobile/VR da UTFPR",
-        "level":"8%",
-        "status": "ongoing"
-      },
-      {
-        "name":"Sistema para auxiliar na coleta de lixo",
-        "level":"3%",
+        "name":"Aplicação 3D em Unity",
+        "level":"50%",
         "status": "ongoing"
       }
     ]
@@ -123,6 +133,30 @@
           "images":[],
           "icon": "done.svg"  
         },
+
+        {
+          "title":"Salve Gaia",
+          "category":"Projetos",
+          "image":"logoSalveGaia.jpg",
+          "url":"",
+          "text":"O projeto 'Salve Gaia' tem como objetivo a criação de peças 3D para complementar o jogo focado na sustentabilidade ambiental. Essas peças, representadas por totens, simbolizam efeitos prejudiciais ao meio ambiente, servindo como uma poderosa ferramenta visual e educativa para conscientizar os jogadores sobre os impactos negativos das ações humanas na natureza. Combinando criatividade e pedagogia, o projeto visa materializar conceitos complexos de forma prática, facilitando a compreensão e promovendo um engajamento ativo na reflexão sobre práticas mais sustentáveis para a proteção do planeta.",
+          "alunos":"Modelagem, documentação e design: Drielle Guimarães Do Nascimento, Modelagem: Larissa Poss. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
+          "video":"",
+          "images":["imagemSalveGaia.png", "imagemSalveGaia1.jpg"],
+          "icon": "done.svg"   
+        },
+
+        {
+          "title":"Reciclapp",
+          "category":"Projetos",
+          "image":"iconeReciclapp.png",
+          "url":"https://github.com/TechnologicalCraftsmanship/Inorganica",
+          "text":"O Reciclapp é um aplicativo desenvolvido para conectar pessoas interessadas em descartar materiais recicláveis com coletores que realizam a coleta desses resíduos. A plataforma torna o processo de reciclagem mais acessível e eficiente, incentivando práticas sustentáveis e a economia circular. Com uma interface intuitiva e simples de usar, os usuários podem criar coletas quando materiais estiverem disponíveis para descarte e acompanhar o status das coletas, os coletores vão até o local e avaliam o estado dos resíduos.O Reciclapp foi desenvolvido utilizando FlutterFlow para a construção da interface e Supabase como banco de dados e sistema de autenticação. Com essas tecnologias, o aplicativo garante uma experiência fluida e segura para todos os usuários. Nosso objetivo é tornar a reciclagem mais acessível e engajar a comunidade em práticas sustentáveis. Com o Reciclapp, podemos contribuir para um planeta mais limpo e consciente. Faça parte dessa mudança!",
+          "alunos":"Front-end e Back-end: Mauro Nadalin; Applicativo Android: Rafael Schmetcka da Silva. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
+          "video":"jSJiv0Uw_V8",
+          "images":["imagemReciclapp.jpg", "imagemReciclapp1.jpg", "imagemReciclapp2.jpg", "imagemReciclapp3.jpg", "imagemReciclapp4.jpg", "imagemReciclapp5.jpg"],
+          "icon": "done.svg"   
+        },
         
         {
           "title":"Tutorial Packet Tracert",
@@ -137,11 +171,54 @@
           "video3":"KVR-MTDf4QE",
           "images":["cisco1.jpg"],
           "icon": "done.svg"   
+        },
+
+        {
+          "title":"Integração com moodle",
+          "category":"Projetos",
+          "image":"iconeMoodle.png",
+          "url":"https://github.com/TechnologicalCraftsmanship/extensao-moodle",
+          "text":"Uma extensão do Chrome projetada para melhorar sua experiência no Moodle, fornecendo funcionalidades adicionais para sincronização com o Google Calendar. As Funcionalidades são: Interface personalizada para interagir com eventos do calendário do Moodle; Janela popup com acesso fácil às principais funções; Processamento em segundo plano para funcionalidade aprimorada; Integração direta com páginas de conteúdo do Moodle.",
+          "alunos":"David Bonfim, Gustavo Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
+          "video":"QvgWm21CQc8",
+          "video1":"MT1ylGjWhNo",
+          "images":["imagemMoodle.png"],
+          "icon": "done.svg"   
+        },
+
+        {
+          "title":"Introdução a Sistemas de Telecomunicações",
+          "category":"Projetos",
+          "image":"05.jpg",
+          "url":"",
+          "text":"Tutorial: Introdução a Sistemas de Telecomunicações O projeto consiste na montagem de vídeos por meio de animação e narração via Inteligência Artificial sobre introdução a sistemas de telecomunicações. Os vídeos são como aulas, buscando relembrar e atualizar as referências sobre os devidos temas. Os temas dos vídeos são: Jitter; Latência e Ping em redes de computadores; Funcionalidades das Redes NGN; Convergência Evoluções das Redes Legadas Evoluções das Redes Móveis; Satélite de baixa órbita e aplicações no Agro Negócios; Evoluções em ambientes de Redes de telefonia móveis Negócios de Torreiras no Mercado; Comunicações móveis.",
+          "alunos":"Amanda Alves Da Rocha. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video":"JJaNHlEqsvo",
+          "video1":"UY8IkrmxPAg",
+          "video2":"1tlLXFR06s4",
+          "video3":"HP0NRAks0ic",
+          "video4":"_CfUlTkdMgA",
+          "video5":"Xjtu4Ow_nwU",
+          "images":[],
+          "icon": "done.svg" 
+           
         }
       ],  
 
       "ongoing": [     
-    
+        
+        {
+          "title":"Aplicação 3D em Unity",
+          "category":"Projetos",
+          "image":"iconeUnity.webp",
+          "url":"",
+          "text":"Este projeto consiste no desenvolvimento de um jogo tridimensional utilizando a plataforma Unity, inicialmente voltado para dispositivos Android, com planos futuros de expansão para plataformas de Realidade Aumentada (AR). O jogo é desenvolvido com a tecnologia Unity D.O.T.S (Data-Oriented Technology Stack), um conjunto de ferramentas que introduz uma abordagem de programação orientada a dados, em contraste com a tradicional programação orientada a objetos. O D.O.T.S é composto por três principais tecnologias: ECS (Entity-Component-System): Permite um gerenciamento mais eficiente das entidades do jogo; Burst Compiler: Otimiza a execução do código, tornando-o mais rápido e eficiente; C# Job System: Possibilita a execução de múltiplas tarefas em paralelo, aproveitando melhor os recursos do processador. Com essa abordagem, o jogo pode gerenciar um grande número de objetos na tela de forma mais eficiente, reduzindo quedas de desempenho e proporcionando uma experiência mais fluida. Atualmente, o projeto encontra-se na fase de prototipagem. Já foi implementado um sistema de carregamento dinâmico do cenário, além de mecânicas de movimentação e animação do personagem. O ambiente do jogo consiste em uma pequena cidade, construída com assets posicionados em locais pré-determinados, além de elementos gerados em posições aleatórias.",
+          "alunos":"Pedro Carvalho da Fonseca Guimarães, Anna Caroline de Olivera Sousa. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video":"dPKZcPx2E5w" ,
+          "images":["imagemAplicacao3DUnity.png"],
+          "icon": "ongoing.svg"  
+        },
+
       {
         "title":"Testador de cabos",
         "category":"Projetos",
@@ -155,7 +232,7 @@
       },     
 
       {
-        "title":" UTFPR EM 3D",
+        "title":"UTFPR EM 3D",
         "category":"Projetos",
         "image":"utfpr3d.jpg",
         "url":"https://github.com/TechnologicalCraftsmanship/Technological-University-of-Paran--in-3D",
@@ -182,24 +259,6 @@
       },
       
       {
-        "title":"Introdução a Sistemas de Telecomunicações",
-        "category":"Projetos",
-        "image":"05.jpg",
-        "url":"",
-        "text":"Tutorial: Introdução a Sistemas de Telecomunicações O projeto consiste na montagem de vídeos por meio de animação e narração via Inteligência Artificial sobre introdução a sistemas de telecomunicações. Os vídeos são como aulas, buscando relembrar e atualizar as referências sobre os devidos temas. Os temas dos vídeos são: Jitter , Latência e Ping em redes de computadores  Funcionalidades das Redes NGN. Convergência  Evoluções das Redes Legadas  Evoluções das Redes Móveis  Satélite de baixa órbita e aplicações no Agro Negócios  Evoluções em ambientes de Redes de telefonia móveis Negócios de Torreiras no Mercado Comunicações Móveis.",
-        "alunos":"Amanda Alves Da Rocha. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-        "video":"JJaNHlEqsvo",
-        "video1":"UY8IkrmxPAg",
-        "video2":"1tlLXFR06s4",
-        "video3":"HP0NRAks0ic",
-        "video4":"_CfUlTkdMgA",
-        "video5":"Xjtu4Ow_nwU",
-        "images":[],
-        "icon": "done.svg" 
-         
-      },
-      
-      {
         "title":"Rastreamento Solar",
         "category":"Projetos",
         "image":"placas.jpg",
@@ -207,13 +266,8 @@
         "alunos":"Paulo Ricardo Nabosne. Coordenação: Prof. Marcos Eduardo P. Monteiro",
         "text": "O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico. O sistema de rastreamento solar opera de maneira coordenada. Primeiro, fotossensores são estrategicamente posicionados para monitorar a intensidade da luz solar em diversas direções. Com base nas leituras desses fotossensores, um controlador calcula a posição atual do sol no céu. Em seguida, servo motores entram em ação, ajustando o ângulo das placas solares para que elas permaneçam sempre perpendiculares à direção do sol. Esse processo de detecção, cálculo e ajuste das placas solares ocorre continuamente ao longo do dia, permitindo que o sistema rastreie o movimento do sol no céu e otimize a captação de energia solar de forma eficiente. Recursos necessários:- Impressora 3D,- 4x Placa Solar (CNC110x60-6),- 2x Servomotor (SG-90),- 1x Arduino,- 1x Regulador de Tensão 12V,- 4x Fotossensor (LDR 05mm),- 4x Resistor 4,7k,- 1x Sensor de tensão e corrente (INA219),- 1x Display LCD 16x3,- 1x Rolamento com 5mm de diâmetro interno,- 1x Caixa de madeira/metal.",
         "video":"S3zlEvh9zIk",
-        "video1":"",
-        "video2":"",
-        "video3":"",
-        "video4":"",
         "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
         "icon": "stopped.svg" 
-         
       }
      ]
     }
