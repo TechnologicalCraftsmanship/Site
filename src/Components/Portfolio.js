@@ -128,20 +128,7 @@ const Portfolio = ({ data }) => {
       <Fade left duration={1000} distance="40px">
         <div className="row" style={{ borderRadius: "20%" }}>
           <div className="twelve columns collapsed">
-            <h1>Projetos em andamento</h1>
-            <div
-              id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
-              style={{
-                border: "1px solid #ddd",
-                borderRadius: "8px",
-                padding: "20px",
-              }}
-            >
-              {projectsOngoing}
-              </div>
-              <hr style={{ margin: "40px 0", borderTop: "2px solid #ccc" }} />
-            <h1>Projetos concluidos</h1>
+            <h1>Projetos Finalizados</h1>
             <div
               id="portfolio-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
@@ -152,6 +139,19 @@ const Portfolio = ({ data }) => {
               }}
             >
               {projectsDone}
+              </div>
+              <hr style={{ margin: "40px 0", borderTop: "2px solid #ccc" }} />
+            <h1>Projetos em Andamento</h1>
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+              style={{
+                border: "1px solid #ddd",
+                borderRadius: "8px",
+                padding: "20px",
+              }}
+            >
+              {projectsOngoing}
             </div>
           </div>
         </div>
