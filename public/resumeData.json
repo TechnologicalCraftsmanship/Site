@@ -15,7 +15,7 @@
       "state":"",
       "zip": "80230-901"
     },
-    "website": "",    
+    "website": "",      
     "social":[
       {
         "name":"facebook",
@@ -115,6 +115,42 @@
     "projects": {
       "done": [
         {
+          "title":"Curso Análise de Dados",
+          "category":"Projetos",
+          "image":"data_analysis_course.jpeg",
+          "url":"",
+          "text":"Este curso, uma iniciativa de extensão do projeto Technological Craftsmanship Works da UTFPR, tem o objetivo de introduzir os conceitos fundamentais da Análise de Dados ao público geral. O programa foi estruturado de forma didática e progressiva, não exigindo conhecimento prévio na área. Os participantes serão guiados pelas etapas de tratamento, análise estatística e visualização de informações. Ao final, o aprendizado é consolidado com o desenvolvimento de um projeto aplicado, capacitando a comunidade com habilidades essenciais para a interpretação de dados.",
+          "alunos":"Breno Israel Jaworski Müller, Gabriel Hunger Machado, Jonathan Leonildes De Souza e onathan Abreu Segantini",
+          "video":"",
+          "images":[],
+          "icon": "done.svg",
+          "isNew": true
+        },
+        {
+          "title":"Coletor de dados CSI",
+          "category":"Projetos",
+          "image":"csi_collector.png",
+          "url":"",
+          "text":"Objetivo: coletar dados CSI (Channel State Information) e montar um dataset para eventuais usos. Os dados CSI fornecem informações detalhadas sobre como um sinal de Wi-Fi se propaga através de um ambiente, incluindo atenuação, multipercurso e fase. Isso permite aplicações inovadoras como localização e rastreamento interno, reconhecimento de gestos, detecção de atividades (ex: detecção de quedas), e aplicações de casas inteligentes, sem a necessidade de câmeras ou sensores corporais.",
+          "alunos":"Douglas Oliveira, Thiago Caetano e Alisson",
+          "video":"",
+          "images":[],
+          "icon": "done.svg",
+          "isNew": true
+        },
+        {
+          "title":"Processador de PDFs",
+          "category":"Projetos",
+          "image":"pdf_processor.png",
+          "url":"https://github.com/TechnologicalCraftsmanship/ProcessadorPDFsUTFPR",
+          "text":"O Processador de PDFs - UTFPR é uma ferramenta que utiliza Inteligência Artificial para ler PDFs de inventário patrimonial, extrair dados relevantes (como Tombo Novo, Tombo Antigo, Instituição, Descrição do Bem e Local Físico) e apresentar essas informações de forma organizada em uma tabela editável e exportável para CSV. ✨ Principais Recursos: Upload de múltiplos PDFs simultaneamente; Extração automática de dados estruturados via IA (OpenAI + n8n); Interface amigável, responsiva e com design inspirado na UTFPR; Visualização instantânea dos dados extraídos em tabela; Download dos resultados em formato CSV, pronto para Excel ou Google Sheets.",
+          "alunos":"Felype Barcellos, Elaine Inacio",
+          "video":"",
+          "images":[],
+          "icon": "done.svg",
+          "isNew": true
+        },
+        {
           "title":"Tutorial TinkerCircuits",
           "category":"Projetos",
           "image":"tinkercad.jpg",
@@ -131,7 +167,7 @@
           "video7":"rRS6dFmsOp4",
           "video8":"bg1WwD_-guM",
           "images":[],
-          "icon": "done.svg"  
+          "icon": "done.svg" 
         },
 
         {
@@ -143,7 +179,7 @@
           "alunos":"Modelagem, documentação e design: Drielle Guimarães Do Nascimento, Modelagem: Larissa Poss. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
           "video":"",
           "images":["imagemSalveGaia.png", "imagemSalveGaia1.jpg"],
-          "icon": "done.svg"   
+          "icon": "done.svg"
         },
 
         {
@@ -155,7 +191,7 @@
           "alunos":"Front-end e Back-end: Mauro Nadalin; Applicativo Android: Rafael Schmetcka da Silva. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
           "video":"jSJiv0Uw_V8",
           "images":["imagemReciclapp.jpg", "imagemReciclapp1.jpg", "imagemReciclapp2.jpg", "imagemReciclapp3.jpg", "imagemReciclapp4.jpg", "imagemReciclapp5.jpg"],
-          "icon": "done.svg"   
+          "icon": "done.svg"
         },
         
         {
@@ -182,6 +218,7 @@
           "alunos":"David Bonfim, Gustavo Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
           "video":"QvgWm21CQc8",
           "video1":"MT1ylGjWhNo",
+          "video2":"MT1ylGjWhNo",
           "images":["imagemMoodle.png"],
           "icon": "done.svg"   
         },
@@ -201,9 +238,9 @@
           "video5":"Xjtu4Ow_nwU",
           "images":[],
           "icon": "done.svg" 
-           
+            
         }
-      ],  
+      ],    
 
       "ongoing": [     
         
@@ -216,7 +253,7 @@
           "alunos":"Pedro Carvalho da Fonseca Guimarães, Anna Caroline de Olivera Sousa. Coordenação: Prof. Marcos Eduardo P. Monteiro",
           "video":"dPKZcPx2E5w" ,
           "images":["imagemAplicacao3DUnity.png"],
-          "icon": "ongoing.svg"  
+          "icon": "ongoing.svg"   
         },
 
       {
@@ -228,8 +265,8 @@
         "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella. Coordenação: Prof. Marcos Eduardo P. Monteiro",
         "video":"T7vAJqbtm5I" ,
         "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg","cabo5.jpg"],
-        "icon": "stopped.svg"  
-      },     
+        "icon": "stopped.svg"   
+      },    
 
       {
         "title":"UTFPR EM 3D",
@@ -251,7 +288,7 @@
         "image":"robo.jpg",
         "url":"",
         "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
-        "alunos":"Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",        
+        "alunos":"Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",         
         "video":"aCylclYlQVQ",
         "video1":"jtzFjJ3v7J8",
         "images":["robo1.jpeg","robo2.png"],
@@ -269,7 +306,7 @@
         "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
         "icon": "stopped.svg" 
       }
-     ]
+      ]
     }
   }
 }
