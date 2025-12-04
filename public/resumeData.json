@@ -247,6 +247,23 @@
           "images":[],
           "icon": "done.svg" 
             
+        },
+        
+        {
+          "title":"Curso Pentest",
+          "category":"Projetos",
+          "image":"PentestLogo.png",
+          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7HSDyAi9ZBK6WDLeW-EFFHj",
+          "alunos":"Valdecir Sarat. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "text": "Uma série de instruções práticas desenvolvida para desmistificar a segurança da informação, guiando o usuário na criação de um ambiente controlado para testes de intrusão (Pentest). O projeto tem como objetivo ensinar a identificar falhas em sistemas operacionais legados e compreender as táticas utilizadas por atacantes reais. Além da ofensiva, o trabalho enfatiza a importância da defesa cibernética, instruindo sobre a instalação e configuração de ferramentas de monitoramento (SIEM) para detectar e bloquear ameaças, como ataques de força bruta, em tempo real.",
+          "video":"hvr5E50Vr1M",
+          "video1":"a-54JIyBOXk",
+          "video2":"e9vUkNkqS5s",
+          "video3":"GyfZu8xSAO8",
+          "video4":"ueJsul-yeQU",
+          "video5":"cUNyuMgLVbI",
+          "images":[],
+          "icon": "stopped.svg" 
         }
       ],    
 
