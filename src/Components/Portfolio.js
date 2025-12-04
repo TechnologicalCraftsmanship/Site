@@ -94,6 +94,16 @@ const ProjectModal = ({ selectedProject, closeModal }) => (
     <a href={selectedProject.url} target="_blank" rel="noopener noreferrer">
       Saiba mais
     </a>
+
+    {/* Only appears if the project has "articleUrl" in the JSON */}
+          {selectedProject.articleUrl && (
+            <>
+              <br />
+              <a href={selectedProject.articleUrl} target="_blank" rel="noopener noreferrer" style={{ marginTop: '10px', display: 'inline-block' }}>
+                Ler Artigo
+              </a>
+            </>
+          )}   
   </div>
 );
 
