@@ -312,6 +312,7 @@
         "category":"Projetos",
         "image":"robo.jpg",
         "url":"https://github.com/TechnologicalCraftsmanship/JaegerUTFPR",
+        "articleUrl": "https://doi.org/10.1017/S0263574725102907",
         "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
         "alunos":"Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",         
         "video":"aCylclYlQVQ",
