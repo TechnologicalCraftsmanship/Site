@@ -313,6 +313,18 @@
         "video":"S3zlEvh9zIk",
         "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
         "icon": "stopped.svg" 
+      },
+
+      {
+        "title":"Partitura musical interativa",
+        "category":"Projetos",
+        "image":"MusicalLogoEx.jpg",
+        "url":"https://github.com/AnaJuliaTurko/partitura3dsonoro",
+        "alunos":"Ana Julia Turko dos Santos, Jesús Alberto López Oviedo",
+        "text": "Uma ferramenta pedagógica inclusiva, denominada Partitura 3D Sonora, criada para superar a ausência de materiais didáticos interativos para o ensino de música a deficientes visuais. O recurso oferece: Tradução da lógica da partitura visual para o domínio do tato; Manipulação dinâmica de figuras e pausas musicais em uma pauta física; Integração entre objetos físicos e resposta auditiva para reforço cognitivo; Promoção da autonomia no processo de aprendizagem musical.",
+        "video":"",
+        "images":["MusicalFig1.png", "MusicalFig2.png", "MusicalFig3.png"],
+        "icon": "ongoing.svg" 
       }
       ]
     }
