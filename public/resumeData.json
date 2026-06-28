@@ -1,62 +1,62 @@
 {
   "main": {
-    "name":"Technological Craftsmanship Works ",
-    "description":"Este é o site oficial para a divulgação dos trabalhos realizados na disciplina Technological Craftsmanship Works da UTFPR - Campus Curitiba.Mais informações podem ser encontradas em: https://www.youtube.com/@TechnologicalCraftsmanship",
-    "image":"profilepic.jpg",
-    "bio":"Como universidade tecnológica, é de suma importância o incentivo ao estudo e aplicação de tecnologias modernas. Esta disciplina extensionista ofertada aos cursos da UTFPR aborda diretamente este assunto: a construção de trabalhos de artesanato tecnológico cujo processo de construção e replicação será disponibilizado à sociedade. Tais trabalhos, além de valorizar o nome da instituição como uma universidade tecnológica, irão incentivar o estudo de tecnologias em ambientes acadêmicos. Por fim, há previsão de pequenos eventos destinados à comunidade externa abordando aspectos específicos dos trabalhos tecnológicos desenvolvidos.",
-    "contactmessage":"Entre em contato através do e-mail: technologicalcraftsmanship@gmail.com",
+    "name": "Technological Craftsmanship Works ",
+    "description": "Este é o site oficial para a divulgação dos trabalhos realizados na disciplina Technological Craftsmanship Works da UTFPR - Campus Curitiba.Mais informações podem ser encontradas em: https://www.youtube.com/@TechnologicalCraftsmanship",
+    "image": "profilepic.jpg",
+    "bio": "Como universidade tecnológica, é de suma importância o incentivo ao estudo e aplicação de tecnologias modernas. Esta disciplina extensionista ofertada aos cursos da UTFPR aborda diretamente este assunto: a construção de trabalhos de artesanato tecnológico cujo processo de construção e replicação será disponibilizado à sociedade. Tais trabalhos, além de valorizar o nome da instituição como uma universidade tecnológica, irão incentivar o estudo de tecnologias em ambientes acadêmicos. Por fim, há previsão de pequenos eventos destinados à comunidade externa abordando aspectos específicos dos trabalhos tecnológicos desenvolvidos.",
+    "contactmessage": "Entre em contato através do e-mail: technologicalcraftsmanship@gmail.com",
     "email": "technologicalcraftsmanship@gmail.com",
     "phone": "Entre em contato através do e-mail.",
-    "github":"https://github.com/TechnologicalCraftsmanship",
-    "project":"",
-    "address":{
-      "street":"Av. Sete de Setembro, 3165",
-      "city":"Rebouças",
-      "state":"",
+    "github": "https://github.com/TechnologicalCraftsmanship",
+    "project": "",
+    "address": {
+      "street": "Av. Sete de Setembro, 3165",
+      "city": "Rebouças",
+      "state": "",
       "zip": "80230-901"
     },
-    "website": "",      
-    "social":[
+    "website": "",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/sistel.UTFPR?mibextid=ZbWKwL",
-        "className":"fa fa-facebook"
-      },      
+        "name": "facebook",
+        "url": "https://www.facebook.com/sistel.UTFPR?mibextid=ZbWKwL",
+        "className": "fa fa-facebook"
+      },
       {
-        "name":"instagram",
-        "url":"https://instagram.com/sistel.utfpr?igshid=MWZjMTM2ODFkZg==",
-        "className":"fa fa-instagram"
-      },      
+        "name": "instagram",
+        "url": "https://instagram.com/sistel.utfpr?igshid=MWZjMTM2ODFkZg==",
+        "className": "fa fa-instagram"
+      },
       {
-        "name":"Moodle",
-        "url":"http://www.utfpr.edu.br/alunos/portal-do-aluno",
-        "className":"fa fa-twitter"
+        "name": "Moodle",
+        "url": "http://www.utfpr.edu.br/alunos/portal-do-aluno",
+        "className": "fa fa-twitter"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
-        "degree":"Professor: Marcos Eduardo Pivaro Monteiro",
-        "graduated":"2023",
-        "description":"..."
+        "school": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+        "degree": "Professor: Marcos Eduardo Pivaro Monteiro",
+        "graduated": "2023",
+        "description": "..."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"teste",
-        "title":"teste ",
-        "years":"2023 - Present",
-        "description":""
+        "company": "teste",
+        "title": "teste ",
+        "years": "2023 - Present",
+        "description": ""
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Tutorial Packet Tracert ...",
-        "level":"100%",
-        "status":"done"
+        "name": "Tutorial Packet Tracert ...",
+        "level": "100%",
+        "status": "done"
       },
       {
         "name": "Tutorial TinkerCircuits",
@@ -64,299 +64,346 @@
         "status": "done"
       },
       {
-        "name":"Introdução a Sistemas de Telecomunicações",
-        "level":"100%",
-        "status":"done"
-      },
-      {
-        "name":"Reciclapp",
-        "level":"100%",
+        "name": "Introdução a Sistemas de Telecomunicações",
+        "level": "100%",
         "status": "done"
       },
       {
-        "name":"Integração com moodle",
-        "level":"100%",
+        "name": "Reciclapp",
+        "level": "100%",
         "status": "done"
       },
       {
-        "name":"Salve Gaia",
-        "level":"100%",
+        "name": "Integração com moodle",
+        "level": "100%",
         "status": "done"
       },
       {
-        "name":"Testador de cabos ...",
-        "level":"75%",
+        "name": "Salve Gaia",
+        "level": "100%",
+        "status": "done"
+      },
+      {
+        "name": "Testador de cabos ...",
+        "level": "75%",
         "status": "stopped"
       },
       {
-        "name":"Rastreamento Solar",
-        "level":"75%",
-        "status":"stopped"
+        "name": "Rastreamento Solar",
+        "level": "75%",
+        "status": "stopped"
       },
       {
-        "name":"UTFPR EM 3D ...",
-        "level":"40%",
-        "status": "ongoing"
-      },      
-      {
-        "name":"Jaeger ...",
-        "level":"75%",
+        "name": "UTFPR EM 3D ...",
+        "level": "40%",
         "status": "ongoing"
       },
       {
-        "name":"Aplicação 3D em Unity",
-        "level":"50%",
+        "name": "Jaeger ...",
+        "level": "75%",
+        "status": "ongoing"
+      },
+      {
+        "name": "Aplicação 3D em Unity",
+        "level": "50%",
+        "status": "ongoing"
+      },
+      {
+        "name": "Joystick Junior",
+        "level": "90%",
         "status": "ongoing"
       }
     ]
   },
-  
-  "portfolio":{
+  "portfolio": {
     "projects": {
       "done": [
         {
-          "title":"Curso Análise de Dados",
-          "category":"Projetos",
-          "image":"data_analysis_course.jpeg",
-          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7HBkDxxkC8VOCa46p_iktg5",
-          "text":"Este curso, uma iniciativa de extensão do projeto Technological Craftsmanship Works da UTFPR, tem o objetivo de introduzir os conceitos fundamentais da Análise de Dados ao público geral. O programa foi estruturado de forma didática e progressiva, não exigindo conhecimento prévio na área. Os participantes serão guiados pelas etapas de tratamento, análise estatística e visualização de informações. Ao final, o aprendizado é consolidado com o desenvolvimento de um projeto aplicado, capacitando a comunidade com habilidades essenciais para a interpretação de dados.",
-          "alunos":"Felype Barcellos. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-          "video":"QCv9wwjZwXk",
-          "video1":"BgwOT5R99Ts",
-          "video2":"6XNDbDH4gww",
-          "video3":"m2JH7On_Plc",
-          "video4":"YkoCuxSHRT8",
-          "video5":"gJbfmTnVX50",
-          "video6":"--mS_d2BfC8",
-          "video7":"FuEbLZ2nusw",
-          "video8":"NChMT24DPwU",
-          "images":[],
+          "title": "Curso Análise de Dados",
+          "category": "Projetos",
+          "image": "data_analysis_course.jpeg",
+          "url": "https://www.youtube.com/playlist?list=PLsDdMofk9g7HBkDxxkC8VOCa46p_iktg5",
+          "text": "Este curso, uma iniciativa de extensão do projeto Technological Craftsmanship Works da UTFPR, tem o objetivo de introduzir os conceitos fundamentais da Análise de Dados ao público geral. O programa foi estruturado de forma didática e progressiva, não exigindo conhecimento prévio na área. Os participantes serão guiados pelas etapas de tratamento, análise estatística e visualização de informações. Ao final, o aprendizado é consolidado com o desenvolvimento de um projeto aplicado, capacitando a comunidade com habilidades essenciais para a interpretação de dados.",
+          "alunos": "Felype Barcellos. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "QCv9wwjZwXk",
+          "video1": "BgwOT5R99Ts",
+          "video2": "6XNDbDH4gww",
+          "video3": "m2JH7On_Plc",
+          "video4": "YkoCuxSHRT8",
+          "video5": "gJbfmTnVX50",
+          "video6": "--mS_d2BfC8",
+          "video7": "FuEbLZ2nusw",
+          "video8": "NChMT24DPwU",
+          "images": [],
           "icon": "done.svg",
           "isNew": true
         },
         {
-          "title":"Coletor de dados CSI",
-          "category":"Projetos",
-          "image":"csi_collector.png",
-          "url":"https://github.com/TechnologicalCraftsmanship/CSI-Control-App",
-          "text":"Objetivo: coletar dados CSI (Channel State Information) e montar um dataset para eventuais usos. Os dados CSI fornecem informações detalhadas sobre como um sinal de Wi-Fi se propaga através de um ambiente, incluindo atenuação, multipercurso e fase. Isso permite aplicações inovadoras como localização e rastreamento interno, reconhecimento de gestos, detecção de atividades (ex: detecção de quedas), e aplicações de casas inteligentes, sem a necessidade de câmeras ou sensores corporais.",
-          "alunos":"Cleber Brantl, Thiago Luciano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-          "video":"",
-          "images":["CsiSelf.jpg","CsiSala.jpg"],
+          "title": "Coletor de dados CSI",
+          "category": "Projetos",
+          "image": "csi_collector.png",
+          "url": "https://github.com/TechnologicalCraftsmanship/CSI-Control-App",
+          "text": "Objetivo: coletar dados CSI (Channel State Information) e montar um dataset para eventuais usos. Os dados CSI fornecem informações detalhadas sobre como um sinal de Wi-Fi se propaga através de um ambiente, incluindo atenuação, multipercurso e fase. Isso permite aplicações inovadoras como localização e rastreamento interno, reconhecimento de gestos, detecção de atividades (ex: detecção de quedas), e aplicações de casas inteligentes, sem a necessidade de câmeras ou sensores corporais.",
+          "alunos": "Cleber Brantl, Thiago Luciano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "",
+          "images": [
+            "CsiSelf.jpg",
+            "CsiSala.jpg"
+          ],
           "icon": "done.svg",
           "isNew": true
         },
         {
-          "title":"Processador de PDFs",
-          "category":"Projetos",
-          "image":"pdf_processor.png",
-          "url":"https://github.com/TechnologicalCraftsmanship/ProcessadorPDFsUTFPR",
-          "text":"O Processador de PDFs - UTFPR é uma ferramenta que utiliza Inteligência Artificial para ler PDFs de inventário patrimonial, extrair dados relevantes (como Tombo Novo, Tombo Antigo, Instituição, Descrição do Bem e Local Físico) e apresentar essas informações de forma organizada em uma tabela editável e exportável para CSV. ✨ Principais Recursos: Upload de múltiplos PDFs simultaneamente; Extração automática de dados estruturados via IA (OpenAI + n8n); Interface amigável, responsiva e com design inspirado na UTFPR; Visualização instantânea dos dados extraídos em tabela; Download dos resultados em formato CSV, pronto para Excel ou Google Sheets.",
-          "alunos":"Felype Barcellos, Elaine Inacio",
-          "video":"",
-          "images":[],
+          "title": "Processador de PDFs",
+          "category": "Projetos",
+          "image": "pdf_processor.png",
+          "url": "https://github.com/TechnologicalCraftsmanship/ProcessadorPDFsUTFPR",
+          "text": "O Processador de PDFs - UTFPR é uma ferramenta que utiliza Inteligência Artificial para ler PDFs de inventário patrimonial, extrair dados relevantes (como Tombo Novo, Tombo Antigo, Instituição, Descrição do Bem e Local Físico) e apresentar essas informações de forma organizada em uma tabela editável e exportável para CSV. ✨ Principais Recursos: Upload de múltiplos PDFs simultaneamente; Extração automática de dados estruturados via IA (OpenAI + n8n); Interface amigável, responsiva e com design inspirado na UTFPR; Visualização instantânea dos dados extraídos em tabela; Download dos resultados em formato CSV, pronto para Excel ou Google Sheets.",
+          "alunos": "Felype Barcellos, Elaine Inacio",
+          "video": "",
+          "images": [],
           "icon": "done.svg",
           "isNew": true
         },
         {
-          "title":"Tutorial TinkerCircuits",
-          "category":"Projetos",
-          "image":"tinkercad.jpg",
-          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7H8qO_sQMeMY0nLxZJym3tA",
-          "text":"TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
-          "alunos":"Jacqueline Agatha. Coordenação: Prof. Marcos Eduardo P. Monteiro" ,
-          "video":"Z_sIbcqJKMk",
-          "video1":"fUc-liR7x4I",
-          "video2":"jz8y7DCpIXc",
-          "video3":"GuRtNrRkIFM",
-          "video4":"RY9pRcvYpK8",
-          "video5":"lfZMW1I8dxg",
-          "video6":"ywxPqnOWZyQ",
-          "video7":"rRS6dFmsOp4",
-          "video8":"bg1WwD_-guM",
-          "images":[],
-          "icon": "done.svg" 
-        },
-
-        {
-          "title":"Salve Gaia",
-          "category":"Projetos",
-          "image":"logoSalveGaia.jpg",
-          "url":"https://github.com/TechnologicalCraftsmanship/SALVE-GAIA",
-          "text":"O projeto 'Salve Gaia' tem como objetivo a criação de peças 3D para complementar o jogo focado na sustentabilidade ambiental. Essas peças, representadas por totens, simbolizam efeitos prejudiciais ao meio ambiente, servindo como uma poderosa ferramenta visual e educativa para conscientizar os jogadores sobre os impactos negativos das ações humanas na natureza. Combinando criatividade e pedagogia, o projeto visa materializar conceitos complexos de forma prática, facilitando a compreensão e promovendo um engajamento ativo na reflexão sobre práticas mais sustentáveis para a proteção do planeta.",
-          "alunos":"Modelagem, documentação e design: Guilherme Saunite Gabriel, Murilo Henrique Goncalvez Cruz. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-          "video":"",
-          "images":["GaiaLocaisModelo2.jpg", "GaiaLocaisModelo1.jpg", "GaiaPescadorModelo2.jpg", "GaiaPescadorModelo1.jpg", "GaiaLocais1.jpg", "GaiaDado2.jpg", "GaiaDadoModelo2.jpg", "GaiaDadoModelo1.jpg", "GaiaDado1.jpg"],
+          "title": "Tutorial TinkerCircuits",
+          "category": "Projetos",
+          "image": "tinkercad.jpg",
+          "url": "https://www.youtube.com/playlist?list=PLsDdMofk9g7H8qO_sQMeMY0nLxZJym3tA",
+          "text": "TinkerCircuits A eletricidade e a eletrônica digital estão extremamente presentes no cotidiano. Definimos esses campos como ramos que utilizam duas tensões com diferentes valores, adotando assim valores binários. Aparelhos como televisores, celulares, computadores e eletrodomésticos exemplificam a aplicação da eletrônica digital em uma infinidade de áreas relacionadas à eletricidade. No entanto, para compreendê-la, é fundamental ter uma base sólida nos princípios básicos.Para iniciar essa compreensão, é possível explorar diversas ferramentas e simuladores de estudo. Um exemplo é o Tinkercad, um aplicativo online e gratuito desenvolvido pela Autodesk®, amplamente utilizado no meio acadêmico. Sua versatilidade destaca-se no desenvolvimento de habilidades voltadas para modelagem 3D, circuitos eletrônicos e programação.As ferramentas disponíveis no Tinkercad estão acessíveis a professores, alunos e a todos que desejam aprender de forma independente. Para começar, basta acessar o site https://www.tinkercad.com/.Com o intuito de facilitar a compreensão dos princípios básicos, preparamos uma sequência de videoaulas que utilizam o Tinkercad como recurso.",
+          "alunos": "Jacqueline Agatha. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "Z_sIbcqJKMk",
+          "video1": "fUc-liR7x4I",
+          "video2": "jz8y7DCpIXc",
+          "video3": "GuRtNrRkIFM",
+          "video4": "RY9pRcvYpK8",
+          "video5": "lfZMW1I8dxg",
+          "video6": "ywxPqnOWZyQ",
+          "video7": "rRS6dFmsOp4",
+          "video8": "bg1WwD_-guM",
+          "images": [],
           "icon": "done.svg"
         },
-
         {
-          "title":"Reciclapp",
-          "category":"Projetos",
-          "image":"iconeReciclapp.png",
-          "url":"https://github.com/TechnologicalCraftsmanship/Inorganica",
-          "text":"O Reciclapp é um aplicativo desenvolvido para conectar pessoas interessadas em descartar materiais recicláveis com coletores que realizam a coleta desses resíduos. A plataforma torna o processo de reciclagem mais acessível e eficiente, incentivando práticas sustentáveis e a economia circular. Com uma interface intuitiva e simples de usar, os usuários podem criar coletas quando materiais estiverem disponíveis para descarte e acompanhar o status das coletas, os coletores vão até o local e avaliam o estado dos resíduos.O Reciclapp foi desenvolvido utilizando FlutterFlow para a construção da interface e Supabase como banco de dados e sistema de autenticação. Com essas tecnologias, o aplicativo garante uma experiência fluida e segura para todos os usuários. Nosso objetivo é tornar a reciclagem mais acessível e engajar a comunidade em práticas sustentáveis. Com o Reciclapp, podemos contribuir para um planeta mais limpo e consciente. Faça parte dessa mudança!",
-          "alunos":"Front-end e Back-end: Mauro Nadalin; Applicativo Android: Rafael Schmetcka da Silva. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-          "video":"jSJiv0Uw_V8",
-          "images":["imagemReciclapp.jpg", "imagemReciclapp1.jpg", "imagemReciclapp2.jpg", "imagemReciclapp3.jpg", "imagemReciclapp4.jpg", "imagemReciclapp5.jpg"],
+          "title": "Salve Gaia",
+          "category": "Projetos",
+          "image": "logoSalveGaia.jpg",
+          "url": "https://github.com/TechnologicalCraftsmanship/SALVE-GAIA",
+          "text": "O projeto 'Salve Gaia' tem como objetivo a criação de peças 3D para complementar o jogo focado na sustentabilidade ambiental. Essas peças, representadas por totens, simbolizam efeitos prejudiciais ao meio ambiente, servindo como uma poderosa ferramenta visual e educativa para conscientizar os jogadores sobre os impactos negativos das ações humanas na natureza. Combinando criatividade e pedagogia, o projeto visa materializar conceitos complexos de forma prática, facilitando a compreensão e promovendo um engajamento ativo na reflexão sobre práticas mais sustentáveis para a proteção do planeta.",
+          "alunos": "Modelagem, documentação e design: Guilherme Saunite Gabriel, Murilo Henrique Goncalvez Cruz. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "",
+          "images": [
+            "GaiaLocaisModelo2.jpg",
+            "GaiaLocaisModelo1.jpg",
+            "GaiaPescadorModelo2.jpg",
+            "GaiaPescadorModelo1.jpg",
+            "GaiaLocais1.jpg",
+            "GaiaDado2.jpg",
+            "GaiaDadoModelo2.jpg",
+            "GaiaDadoModelo1.jpg",
+            "GaiaDado1.jpg"
+          ],
           "icon": "done.svg"
         },
-        
         {
-          "title":"Tutorial Packet Tracert",
-          "category":"Projetos",
-          "image":"cisco.jpg",
-          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7HBknGbg3X-V1WfI8j0voTo",
-          "text":"Nessa série de gravações foi realizado vídeos educativos utilizando o Packet Tracer. Nos tutoriais, abordamos de maneira abrangente os fundamentos de redes, incluindo conceitos essenciais, como topologia de rede, roteamento estático e dinâmico, além de VLANs. A proposta é oferecer uma compreensão sólida desses tópicos fundamentais, proporcionando aos espectadores conhecimentos práticos que são aplicáveis em diversos contextos. Essa iniciativa visa capacitar profissionais e entusiastas a aprimorar suas habilidades em redes, contribuindo para um entendimento mais profundo e eficiente desses conceitos.",
-          "alunos":"Lucas Cristian de Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-          "video":"Lm5GN4KORAQ",
-          "video1":"iTwQI9AeUDQ",
-          "video2":"PzhBhpiDB_c",
-          "video3":"KVR-MTDf4QE",
-          "images":["cisco1.jpg"],
-          "icon": "done.svg"   
+          "title": "Reciclapp",
+          "category": "Projetos",
+          "image": "iconeReciclapp.png",
+          "url": "https://github.com/TechnologicalCraftsmanship/Inorganica",
+          "text": "O Reciclapp é um aplicativo desenvolvido para conectar pessoas interessadas em descartar materiais recicláveis com coletores que realizam a coleta desses resíduos. A plataforma torna o processo de reciclagem mais acessível e eficiente, incentivando práticas sustentáveis e a economia circular. Com uma interface intuitiva e simples de usar, os usuários podem criar coletas quando materiais estiverem disponíveis para descarte e acompanhar o status das coletas, os coletores vão até o local e avaliam o estado dos resíduos.O Reciclapp foi desenvolvido utilizando FlutterFlow para a construção da interface e Supabase como banco de dados e sistema de autenticação. Com essas tecnologias, o aplicativo garante uma experiência fluida e segura para todos os usuários. Nosso objetivo é tornar a reciclagem mais acessível e engajar a comunidade em práticas sustentáveis. Com o Reciclapp, podemos contribuir para um planeta mais limpo e consciente. Faça parte dessa mudança!",
+          "alunos": "Front-end e Back-end: Mauro Nadalin; Applicativo Android: Rafael Schmetcka da Silva. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "jSJiv0Uw_V8",
+          "images": [
+            "imagemReciclapp.jpg",
+            "imagemReciclapp1.jpg",
+            "imagemReciclapp2.jpg",
+            "imagemReciclapp3.jpg",
+            "imagemReciclapp4.jpg",
+            "imagemReciclapp5.jpg"
+          ],
+          "icon": "done.svg"
         },
-
         {
-          "title":"Integração com moodle",
-          "category":"Projetos",
-          "image":"iconeMoodle.png",
-          "url":"https://github.com/TechnologicalCraftsmanship/extensao-moodle",
-          "text":"Uma extensão do Chrome projetada para melhorar sua experiência no Moodle, fornecendo funcionalidades adicionais para sincronização com o Google Calendar. As Funcionalidades são: Interface personalizada para interagir com eventos do calendário do Moodle; Janela popup com acesso fácil às principais funções; Processamento em segundo plano para funcionalidade aprimorada; Integração direta com páginas de conteúdo do Moodle.",
-          "alunos":"David Bonfim, Gustavo Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-          "video":"QvgWm21CQc8",
-          "video1":"MT1ylGjWhNo",
-          "video2":"MT1ylGjWhNo",
-          "images":["imagemMoodle.png"],
-          "icon": "done.svg"   
+          "title": "Tutorial Packet Tracert",
+          "category": "Projetos",
+          "image": "cisco.jpg",
+          "url": "https://www.youtube.com/playlist?list=PLsDdMofk9g7HBknGbg3X-V1WfI8j0voTo",
+          "text": "Nessa série de gravações foi realizado vídeos educativos utilizando o Packet Tracer. Nos tutoriais, abordamos de maneira abrangente os fundamentos de redes, incluindo conceitos essenciais, como topologia de rede, roteamento estático e dinâmico, além de VLANs. A proposta é oferecer uma compreensão sólida desses tópicos fundamentais, proporcionando aos espectadores conhecimentos práticos que são aplicáveis em diversos contextos. Essa iniciativa visa capacitar profissionais e entusiastas a aprimorar suas habilidades em redes, contribuindo para um entendimento mais profundo e eficiente desses conceitos.",
+          "alunos": "Lucas Cristian de Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "Lm5GN4KORAQ",
+          "video1": "iTwQI9AeUDQ",
+          "video2": "PzhBhpiDB_c",
+          "video3": "KVR-MTDf4QE",
+          "images": [
+            "cisco1.jpg"
+          ],
+          "icon": "done.svg"
         },
-
         {
-          "title":"Introdução a Sistemas de Telecomunicações",
-          "category":"Projetos",
-          "image":"05.jpg",
-          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7H0fDoP1BOpaDbyjvwJH4IA",
-          "text":"Tutorial: Introdução a Sistemas de Telecomunicações O projeto consiste na montagem de vídeos por meio de animação e narração via Inteligência Artificial sobre introdução a sistemas de telecomunicações. Os vídeos são como aulas, buscando relembrar e atualizar as referências sobre os devidos temas. Os temas dos vídeos são: Jitter; Latência e Ping em redes de computadores; Funcionalidades das Redes NGN; Convergência Evoluções das Redes Legadas Evoluções das Redes Móveis; Satélite de baixa órbita e aplicações no Agro Negócios; Evoluções em ambientes de Redes de telefonia móveis Negócios de Torreiras no Mercado; Comunicações móveis.",
-          "alunos":"Amanda Alves Da Rocha. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-          "video":"JJaNHlEqsvo",
-          "video1":"UY8IkrmxPAg",
-          "video2":"1tlLXFR06s4",
-          "video3":"HP0NRAks0ic",
-          "video4":"_CfUlTkdMgA",
-          "video5":"Xjtu4Ow_nwU",
-          "images":[],
-          "icon": "done.svg" 
-            
+          "title": "Integração com moodle",
+          "category": "Projetos",
+          "image": "iconeMoodle.png",
+          "url": "https://github.com/TechnologicalCraftsmanship/extensao-moodle",
+          "text": "Uma extensão do Chrome projetada para melhorar sua experiência no Moodle, fornecendo funcionalidades adicionais para sincronização com o Google Calendar. As Funcionalidades são: Interface personalizada para interagir com eventos do calendário do Moodle; Janela popup com acesso fácil às principais funções; Processamento em segundo plano para funcionalidade aprimorada; Integração direta com páginas de conteúdo do Moodle.",
+          "alunos": "David Bonfim, Gustavo Quadri. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "QvgWm21CQc8",
+          "video1": "MT1ylGjWhNo",
+          "video2": "MT1ylGjWhNo",
+          "images": [
+            "imagemMoodle.png"
+          ],
+          "icon": "done.svg"
         },
-        
         {
-          "title":"Curso Pentest",
-          "category":"Projetos",
-          "image":"PentestLogo.png",
-          "url":"https://www.youtube.com/playlist?list=PLsDdMofk9g7HSDyAi9ZBK6WDLeW-EFFHj",
-          "alunos":"Valdecir Sarat. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "title": "Introdução a Sistemas de Telecomunicações",
+          "category": "Projetos",
+          "image": "05.jpg",
+          "url": "https://www.youtube.com/playlist?list=PLsDdMofk9g7H0fDoP1BOpaDbyjvwJH4IA",
+          "text": "Tutorial: Introdução a Sistemas de Telecomunicações O projeto consiste na montagem de vídeos por meio de animação e narração via Inteligência Artificial sobre introdução a sistemas de telecomunicações. Os vídeos são como aulas, buscando relembrar e atualizar as referências sobre os devidos temas. Os temas dos vídeos são: Jitter; Latência e Ping em redes de computadores; Funcionalidades das Redes NGN; Convergência Evoluções das Redes Legadas Evoluções das Redes Móveis; Satélite de baixa órbita e aplicações no Agro Negócios; Evoluções em ambientes de Redes de telefonia móveis Negócios de Torreiras no Mercado; Comunicações móveis.",
+          "alunos": "Amanda Alves Da Rocha. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "JJaNHlEqsvo",
+          "video1": "UY8IkrmxPAg",
+          "video2": "1tlLXFR06s4",
+          "video3": "HP0NRAks0ic",
+          "video4": "_CfUlTkdMgA",
+          "video5": "Xjtu4Ow_nwU",
+          "images": [],
+          "icon": "done.svg"
+        },
+        {
+          "title": "Curso Pentest",
+          "category": "Projetos",
+          "image": "PentestLogo.png",
+          "url": "https://www.youtube.com/playlist?list=PLsDdMofk9g7HSDyAi9ZBK6WDLeW-EFFHj",
+          "alunos": "Valdecir Sarat. Coordenação: Prof. Marcos Eduardo P. Monteiro",
           "text": "Uma série de instruções práticas desenvolvida para desmistificar a segurança da informação, guiando o usuário na criação de um ambiente controlado para testes de intrusão (Pentest). O projeto tem como objetivo ensinar a identificar falhas em sistemas operacionais legados e compreender as táticas utilizadas por atacantes reais. Além da ofensiva, o trabalho enfatiza a importância da defesa cibernética, instruindo sobre a instalação e configuração de ferramentas de monitoramento (SIEM) para detectar e bloquear ameaças, como ataques de força bruta, em tempo real.",
-          "video":"hvr5E50Vr1M",
-          "video1":"a-54JIyBOXk",
-          "video2":"e9vUkNkqS5s",
-          "video3":"GyfZu8xSAO8",
-          "video4":"ueJsul-yeQU",
-          "video5":"cUNyuMgLVbI",
-          "images":[],
-          "icon": "done.svg" 
+          "video": "hvr5E50Vr1M",
+          "video1": "a-54JIyBOXk",
+          "video2": "e9vUkNkqS5s",
+          "video3": "GyfZu8xSAO8",
+          "video4": "ueJsul-yeQU",
+          "video5": "cUNyuMgLVbI",
+          "images": [],
+          "icon": "done.svg"
         }
-      ],    
-
-      "ongoing": [     
-        
+      ],
+      "ongoing": [
         {
-          "title":"Aplicação 3D em Unity",
-          "category":"Projetos",
-          "image":"iconeUnity.webp",
-          "url":"",
-          "text":"Este projeto consiste no desenvolvimento de um jogo tridimensional utilizando a plataforma Unity, inicialmente voltado para dispositivos Android, com planos futuros de expansão para plataformas de Realidade Aumentada (AR). O jogo é desenvolvido com a tecnologia Unity D.O.T.S (Data-Oriented Technology Stack), um conjunto de ferramentas que introduz uma abordagem de programação orientada a dados, em contraste com a tradicional programação orientada a objetos. O D.O.T.S é composto por três principais tecnologias: ECS (Entity-Component-System): Permite um gerenciamento mais eficiente das entidades do jogo; Burst Compiler: Otimiza a execução do código, tornando-o mais rápido e eficiente; C# Job System: Possibilita a execução de múltiplas tarefas em paralelo, aproveitando melhor os recursos do processador. Com essa abordagem, o jogo pode gerenciar um grande número de objetos na tela de forma mais eficiente, reduzindo quedas de desempenho e proporcionando uma experiência mais fluida. Atualmente, o projeto encontra-se na fase de prototipagem. Já foi implementado um sistema de carregamento dinâmico do cenário, além de mecânicas de movimentação e animação do personagem. O ambiente do jogo consiste em uma pequena cidade, construída com assets posicionados em locais pré-determinados, além de elementos gerados em posições aleatórias.",
-          "alunos":"Pedro Carvalho da Fonseca Guimarães, Anna Caroline de Olivera Sousa. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-          "video":"dPKZcPx2E5w" ,
-          "images":["imagemAplicacao3DUnity.png"],
-          "icon": "ongoing.svg"   
+          "title": "Aplicação 3D em Unity",
+          "category": "Projetos",
+          "image": "iconeUnity.webp",
+          "url": "",
+          "text": "Este projeto consiste no desenvolvimento de um jogo tridimensional utilizando a plataforma Unity, inicialmente voltado para dispositivos Android, com planos futuros de expansão para plataformas de Realidade Aumentada (AR). O jogo é desenvolvido com a tecnologia Unity D.O.T.S (Data-Oriented Technology Stack), um conjunto de ferramentas que introduz uma abordagem de programação orientada a dados, em contraste com a tradicional programação orientada a objetos. O D.O.T.S é composto por três principais tecnologias: ECS (Entity-Component-System): Permite um gerenciamento mais eficiente das entidades do jogo; Burst Compiler: Otimiza a execução do código, tornando-o mais rápido e eficiente; C# Job System: Possibilita a execução de múltiplas tarefas em paralelo, aproveitando melhor os recursos do processador. Com essa abordagem, o jogo pode gerenciar um grande número de objetos na tela de forma mais eficiente, reduzindo quedas de desempenho e proporcionando uma experiência mais fluida. Atualmente, o projeto encontra-se na fase de prototipagem. Já foi implementado um sistema de carregamento dinâmico do cenário, além de mecânicas de movimentação e animação do personagem. O ambiente do jogo consiste em uma pequena cidade, construída com assets posicionados em locais pré-determinados, além de elementos gerados em posições aleatórias.",
+          "alunos": "Pedro Carvalho da Fonseca Guimarães, Anna Caroline de Olivera Sousa. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "dPKZcPx2E5w",
+          "images": [
+            "imagemAplicacao3DUnity.png"
+          ],
+          "icon": "ongoing.svg"
         },
-
-      {
-        "title":"Testador de cabos",
-        "category":"Projetos",
-        "image":"testador.jpg",
-        "url":"",
-        "text":"O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
-        "alunos":"Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-        "video":"T7vAJqbtm5I" ,
-        "images":["cabo1.jpg","cabo2.jpeg","cabo3.jpeg","cabo4.jpeg","cabo5.jpg"],
-        "icon": "stopped.svg"   
-      },    
-
-      {
-        "title":"UTFPR EM 3D",
-        "category":"Projetos",
-        "image":"utfpr3d.jpg",
-        "url":"https://github.com/TechnologicalCraftsmanship/Technological-University-of-Paran--in-3D",
-        "text":"Confidential C Habitamos em um mundo tridimensional, tudo o que podemos ver, como notebooks, computadores, o celular no qual você está lendo este conteúdo neste momento, por exemplo, tem três dimensões, assim como outros objetos que o cercam, mas não todos eles sabem responder o que é 3D. Mas o conceito longe de ser complicado. verdadeira questão é compreender o que é a chamada tecnologia 3D e como ela impacta nossas vidas. Esse entendimento pode revelar excelentes oportunidades de negócios para quem busca ingressar no mundo dos negócios ou uma carreira promissora para profissionais que pretendem se especializar na área.O que é 3D?3D é uma abreviatura que significa tridimensional. Esta é uma característica de ter formas geométricas tridimensionais, incluindo altura, profundeza e largura.Consequentemente, não há necessidade de usar esta palavra para definir o que nos rodeia.Assim, 3D em computação gráfica geralmente se refere as imagens e animações que transmitem profundidade ou efeito tridimensional, mesmo quando projetadas em uma tela plana.Para proporcionar um pouco dessa experiência em nosso curso, decidimos criar um projeto em 3D. Inicialmente, devíamos criar uma representação do bloco Q, onde a maioria das aulas de Sistemas de Telecomunicações ocorre. Em seguida, decidimos aumentar o desafio, desenvolvendo o projeto da Sede Centro da UTFPR. Utilizamos a planta do Campus como base.Confidential C Com a planta em mãos, iniciamos a criação da representação tridimensional da UTFPR usando o software Blender. Posteriormente, utilizamos a ferramenta Unity para compilar todo o trabalho, implementar melhorias e aprimorar os detalhes Parte inicial do projeto Vídeo Após todas as modificações o trabalho final: Video 2.",
-        "alunos":"Scheila de Oliveira, Eduardo Rodrigues e Robson Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro", 
-        "video":"bGGGD-zVstg",
-        "video1":"oGxO6tGJtbQ",
-        "video2":"m15QzleP0gQ",
-        "images":["3d1.jpg"],
-        "icon": "ongoing.svg" 
-      },
-      
-      {
-        "title":"Jaeger",
-        "category":"Projetos",
-        "image":"robo.jpg",
-        "url":"https://github.com/TechnologicalCraftsmanship/JaegerUTFPR",
-        "articleUrl": "https://doi.org/10.1017/S0263574725102907",
-        "text":"Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
-        "alunos":"Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",         
-        "video":"aCylclYlQVQ",
-        "video1":"jtzFjJ3v7J8",
-        "images":["robo1.jpeg","robo2.png"],
-        "icon": "ongoing.svg" 
-      },
-      
-      {
-        "title":"Rastreamento Solar",
-        "category":"Projetos",
-        "image":"placas.jpg",
-        "url":"https://github.com/TechnologicalCraftsmanship/PlacasSolares",
-        "alunos":"Paulo Ricardo Nabosne. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-        "text": "O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico. O sistema de rastreamento solar opera de maneira coordenada. Primeiro, fotossensores são estrategicamente posicionados para monitorar a intensidade da luz solar em diversas direções. Com base nas leituras desses fotossensores, um controlador calcula a posição atual do sol no céu. Em seguida, servo motores entram em ação, ajustando o ângulo das placas solares para que elas permaneçam sempre perpendiculares à direção do sol. Esse processo de detecção, cálculo e ajuste das placas solares ocorre continuamente ao longo do dia, permitindo que o sistema rastreie o movimento do sol no céu e otimize a captação de energia solar de forma eficiente. Recursos necessários:- Impressora 3D,- 4x Placa Solar (CNC110x60-6),- 2x Servomotor (SG-90),- 1x Arduino,- 1x Regulador de Tensão 12V,- 4x Fotossensor (LDR 05mm),- 4x Resistor 4,7k,- 1x Sensor de tensão e corrente (INA219),- 1x Display LCD 16x3,- 1x Rolamento com 5mm de diâmetro interno,- 1x Caixa de madeira/metal.",
-        "video":"S3zlEvh9zIk",
-        "images":["placas1.jpg","placas2.jpg","placas3.jpg","placas4.jpg"],
-        "icon": "stopped.svg" 
-      },
-
-      {
-        "title":"Partitura musical interativa",
-        "category":"Projetos",
-        "image":"MusicalLogoEx.jpg",
-        "url":"https://github.com/AnaJuliaTurko/partitura3dsonoro",
-        "alunos":"Ana Julia Turko dos Santos, Jesús Alberto López Oviedo",
-        "text": "Uma ferramenta pedagógica inclusiva, denominada Partitura 3D Sonora, criada para superar a ausência de materiais didáticos interativos para o ensino de música a deficientes visuais. O recurso oferece: Tradução da lógica da partitura visual para o domínio do tato; Manipulação dinâmica de figuras e pausas musicais em uma pauta física; Integração entre objetos físicos e resposta auditiva para reforço cognitivo; Promoção da autonomia no processo de aprendizagem musical.",
-        "video":"",
-        "images":["MusicalFig1.png", "MusicalFig2.png", "MusicalFig3.png"],
-        "icon": "ongoing.svg" 
-      },
-
-      {
-        "title": "Joystick Junior",
-        "category": "Projetos",
-        "image": "iconeJoystickJunior.jpg",
-        "url": "https://github.com/ReneLopesSilva/Projeto-Joystick-TCW",
-        "text": " O presente trabalho consiste no desenvolvimento de um sistema de controle remoto para cadeiras de rodas elétricas, com o objetivo de permitir sua operação por meio de um dispositivo móvel conectado via Bluetooth. A proposta surgiu da necessidade de criar uma solução acessível, segura e de fácil instalação, capaz de ampliar as possibilidades de utilização de cadeiras de rodas motorizadas sem a necessidade de intervenções permanentes em sua estrutura ou eletrônica original. O projeto está inserido na área de Tecnologia Assistiva e integra conhecimentos de mecânica, eletrônica, sistemas embarcados e desenvolvimento de software. Seu principal diferencial está na adoção de uma arquitetura não invasiva, na qual o sistema não realiza qualquer modificação nos circuitos da cadeira de rodas onde é empregado. Em vez disso, foi projetado um dispositivo externo que se acopla ao joystick original da cadeira e reproduz mecanicamente os movimentos necessários para o controle da direção do equipamento. O funcionamento do sistema é baseado na comunicação sem fio entre um aplicativo móvel e um microcontrolador embarcado. Por meio do aplicativo, o usuário pode enviar comandos de movimentação utilizando uma interface gráfica simples e intuitiva. Esses comandos são transmitidos via Bluetooth para um microcontrolador ESP32, responsável por processar as informações recebidas e comandar os atuadores eletromecânicos instalados no dispositivo. Os atuadores movimentam o joystick da cadeira de rodas de forma controlada, reproduzindo os mesmos movimentos que seriam realizados manualmente por um usuário. Para a implementação da solução, foram empregados motores de passo para garantir precisão de posicionamento e torque necessários, drivers eletrônicos para controle dos motores, sensores para monitoramento da posição dos mecanismos e sistemas de proteção elétrica e operacional. Além disso, foram incorporados recursos de segurança, como parada de emergência e retorno automático do joystick para a posição neutra em situações de falha ou perda de comunicação, visando minimizar riscos durante a operação. O desenvolvimento do projeto está sendo conduzido de forma incremental, contemplando etapas de levantamento de requisitos, benchmarking de soluções existentes, definição da arquitetura do sistema, modelagem mecânica, seleção de componentes eletrônicos, prototipagem, desenvolvimento de firmware, desenvolvimento do aplicativo móvel e integração entre os subsistemas. Essa metodologia permite a validação contínua das soluções propostas e a identificação antecipada de possíveis melhorias ao longo do processo. Ao final do desenvolvimento, espera-se obter um protótipo funcional capaz de controlar uma cadeira de rodas elétrica de forma remota, segura e confiável, demonstrando a viabilidade da aplicação de sistemas mecatrônicos e tecnologias de comunicação sem fio no desenvolvimento de soluções voltadas à acessibilidade e inclusão.",
-        "alunos": "Giovanny Trindade Caldas e Rene Lopes Dos Santos Gagliano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-        "video": "",
-        "images":["Imagens_Joystick_Jr/Projeto_V0_testes_inicial.jpeg","Imagens_Joystick_Jr/Projeto_Montado_V1.jpeg","Imagens_Joystick_Jr/Projeto_V1_vista_lateral_2.jpeg","Imagens_Joystick_Jr/Projeto_V1_vista_lateral.jpeg","Imagens_Joystick_Jr/cadeira_vista_superior.jpeg","Imagens_Joystick_Jr/joystick.jpeg","Imagens_Joystick_Jr/joystick_lateral.jpeg","Imagens_Joystick_Jr/Nova_base_Madeira.png","Imagens_Joystick_Jr/Projeto_mesa.jpeg","Imagens_Joystick_Jr/Projeto_mesa_sobreposicao.jpeg","Imagens_Joystick_Jr/vista_superior_braço.png","Imagens_Joystick_Jr/Placa_eletronica_desenvolvida.jpeg"],
-        "icon": "ongoing.svg"
-      }
-
+        {
+          "title": "Testador de cabos",
+          "category": "Projetos",
+          "image": "testador.jpg",
+          "url": "",
+          "text": "O objetivo deste projeto foi criar dois modelos de testador de cabos, sendo um simples e outro utilizando Arduino. Como a maioria dos componetes usados os alunos adquirem ao longo do curso para realizarem tarefas relacionadas a determinadas diciplinas, este trabalho visa incentivar os alunos aproveitarem esses materiais para construírem a ferramenta e modificar ao seu modo.",
+          "alunos": "Gustavo de Souza, Emilio Gustavo, Lysandro Neto,Reeder Teixeira e Giovani Giovanella. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "T7vAJqbtm5I",
+          "images": [
+            "cabo1.jpg",
+            "cabo2.jpeg",
+            "cabo3.jpeg",
+            "cabo4.jpeg",
+            "cabo5.jpg"
+          ],
+          "icon": "stopped.svg"
+        },
+        {
+          "title": "UTFPR EM 3D",
+          "category": "Projetos",
+          "image": "utfpr3d.jpg",
+          "url": "https://github.com/TechnologicalCraftsmanship/Technological-University-of-Paran--in-3D",
+          "text": "Confidential C Habitamos em um mundo tridimensional, tudo o que podemos ver, como notebooks, computadores, o celular no qual você está lendo este conteúdo neste momento, por exemplo, tem três dimensões, assim como outros objetos que o cercam, mas não todos eles sabem responder o que é 3D. Mas o conceito longe de ser complicado. verdadeira questão é compreender o que é a chamada tecnologia 3D e como ela impacta nossas vidas. Esse entendimento pode revelar excelentes oportunidades de negócios para quem busca ingressar no mundo dos negócios ou uma carreira promissora para profissionais que pretendem se especializar na área.O que é 3D?3D é uma abreviatura que significa tridimensional. Esta é uma característica de ter formas geométricas tridimensionais, incluindo altura, profundeza e largura.Consequentemente, não há necessidade de usar esta palavra para definir o que nos rodeia.Assim, 3D em computação gráfica geralmente se refere as imagens e animações que transmitem profundidade ou efeito tridimensional, mesmo quando projetadas em uma tela plana.Para proporcionar um pouco dessa experiência em nosso curso, decidimos criar um projeto em 3D. Inicialmente, devíamos criar uma representação do bloco Q, onde a maioria das aulas de Sistemas de Telecomunicações ocorre. Em seguida, decidimos aumentar o desafio, desenvolvendo o projeto da Sede Centro da UTFPR. Utilizamos a planta do Campus como base.Confidential C Com a planta em mãos, iniciamos a criação da representação tridimensional da UTFPR usando o software Blender. Posteriormente, utilizamos a ferramenta Unity para compilar todo o trabalho, implementar melhorias e aprimorar os detalhes Parte inicial do projeto Vídeo Após todas as modificações o trabalho final: Video 2.",
+          "alunos": "Scheila de Oliveira, Eduardo Rodrigues e Robson Morais. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "bGGGD-zVstg",
+          "video1": "oGxO6tGJtbQ",
+          "video2": "m15QzleP0gQ",
+          "images": [
+            "3d1.jpg"
+          ],
+          "icon": "ongoing.svg"
+        },
+        {
+          "title": "Jaeger",
+          "category": "Projetos",
+          "image": "robo.jpg",
+          "url": "https://github.com/TechnologicalCraftsmanship/JaegerUTFPR",
+          "articleUrl": "https://doi.org/10.1017/S0263574725102907",
+          "text": "Que tal explorar diversos caminhos sob uma perspectiva única? O Jaeger UTFPR é um pequeno robô de baixo custo, equipado com componentes acessíveis (aproximadamente R$ 100), e controlado através de um headset de realidade virtual que permite experienciar o mundo através dos seus olhos. Mas como ele realmente funciona? O nosso robô possui 6 motores de passo para o controle das mãos, 2 motores CC para movimentação, 1 motor de passo para o controle da câmera, além de 1x ESP32 e alto-falante com microfone. Isso permite criar movimentos e proporcionar uma experiência completamente diferente daquela que normalmente se vê.",
+          "alunos": "Impressões: Giovani Giovanella, Soldagem: Gustavo de Souza Silveira, Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "aCylclYlQVQ",
+          "video1": "jtzFjJ3v7J8",
+          "images": [
+            "robo1.jpeg",
+            "robo2.png"
+          ],
+          "icon": "ongoing.svg"
+        },
+        {
+          "title": "Rastreamento Solar",
+          "category": "Projetos",
+          "image": "placas.jpg",
+          "url": "https://github.com/TechnologicalCraftsmanship/PlacasSolares",
+          "alunos": "Paulo Ricardo Nabosne. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "text": "O objetivo deste projeto é criar um sistema de rastreamento solar para painéis solares, que permita que as placas estejam sempre alinhadas de forma perpendicular ao sol ao longo do dia. Isso otimizará a captura de energia solar e aumentará significativamente a eficiência de um sistema fotovoltaico. O sistema de rastreamento solar opera de maneira coordenada. Primeiro, fotossensores são estrategicamente posicionados para monitorar a intensidade da luz solar em diversas direções. Com base nas leituras desses fotossensores, um controlador calcula a posição atual do sol no céu. Em seguida, servo motores entram em ação, ajustando o ângulo das placas solares para que elas permaneçam sempre perpendiculares à direção do sol. Esse processo de detecção, cálculo e ajuste das placas solares ocorre continuamente ao longo do dia, permitindo que o sistema rastreie o movimento do sol no céu e otimize a captação de energia solar de forma eficiente. Recursos necessários:- Impressora 3D,- 4x Placa Solar (CNC110x60-6),- 2x Servomotor (SG-90),- 1x Arduino,- 1x Regulador de Tensão 12V,- 4x Fotossensor (LDR 05mm),- 4x Resistor 4,7k,- 1x Sensor de tensão e corrente (INA219),- 1x Display LCD 16x3,- 1x Rolamento com 5mm de diâmetro interno,- 1x Caixa de madeira/metal.",
+          "video": "S3zlEvh9zIk",
+          "images": [
+            "placas1.jpg",
+            "placas2.jpg",
+            "placas3.jpg",
+            "placas4.jpg"
+          ],
+          "icon": "stopped.svg"
+        },
+        {
+          "title": "Partitura musical interativa",
+          "category": "Projetos",
+          "image": "MusicalLogoEx.jpg",
+          "url": "https://github.com/AnaJuliaTurko/partitura3dsonoro",
+          "alunos": "Ana Julia Turko dos Santos, Jesús Alberto López Oviedo",
+          "text": "Uma ferramenta pedagógica inclusiva, denominada Partitura 3D Sonora, criada para superar a ausência de materiais didáticos interativos para o ensino de música a deficientes visuais. O recurso oferece: Tradução da lógica da partitura visual para o domínio do tato; Manipulação dinâmica de figuras e pausas musicais em uma pauta física; Integração entre objetos físicos e resposta auditiva para reforço cognitivo; Promoção da autonomia no processo de aprendizagem musical.",
+          "video": "",
+          "images": [
+            "MusicalFig1.png",
+            "MusicalFig2.png",
+            "MusicalFig3.png"
+          ],
+          "icon": "ongoing.svg"
+        },
+        {
+          "title": "Joystick Junior",
+          "category": "Projetos",
+          "image": "iconeJoystickJunior.jpg",
+          "url": "https://github.com/ReneLopesSilva/Projeto-Joystick-TCW",
+          "text": " O presente trabalho consiste no desenvolvimento de um sistema de controle remoto para cadeiras de rodas elétricas, com o objetivo de permitir sua operação por meio de um dispositivo móvel conectado via Bluetooth. A proposta surgiu da necessidade de criar uma solução acessível, segura e de fácil instalação, capaz de ampliar as possibilidades de utilização de cadeiras de rodas motorizadas sem a necessidade de intervenções permanentes em sua estrutura ou eletrônica original. O projeto está inserido na área de Tecnologia Assistiva e integra conhecimentos de mecânica, eletrônica, sistemas embarcados e desenvolvimento de software. Seu principal diferencial está na adoção de uma arquitetura não invasiva, na qual o sistema não realiza qualquer modificação nos circuitos da cadeira de rodas onde é empregado. Em vez disso, foi projetado um dispositivo externo que se acopla ao joystick original da cadeira e reproduz mecanicamente os movimentos necessários para o controle da direção do equipamento. O funcionamento do sistema é baseado na comunicação sem fio entre um aplicativo móvel e um microcontrolador embarcado. Por meio do aplicativo, o usuário pode enviar comandos de movimentação utilizando uma interface gráfica simples e intuitiva. Esses comandos são transmitidos via Bluetooth para um microcontrolador ESP32, responsável por processar as informações recebidas e comandar os atuadores eletromecânicos instalados no dispositivo. Os atuadores movimentam o joystick da cadeira de rodas de forma controlada, reproduzindo os mesmos movimentos que seriam realizados manualmente por um usuário. Para a implementação da solução, foram empregados motores de passo para garantir precisão de posicionamento e torque necessários, drivers eletrônicos para controle dos motores, sensores para monitoramento da posição dos mecanismos e sistemas de proteção elétrica e operacional. Além disso, foram incorporados recursos de segurança, como parada de emergência e retorno automático do joystick para a posição neutra em situações de falha ou perda de comunicação, visando minimizar riscos durante a operação. O desenvolvimento do projeto está sendo conduzido de forma incremental, contemplando etapas de levantamento de requisitos, benchmarking de soluções existentes, definição da arquitetura do sistema, modelagem mecânica, seleção de componentes eletrônicos, prototipagem, desenvolvimento de firmware, desenvolvimento do aplicativo móvel e integração entre os subsistemas. Essa metodologia permite a validação contínua das soluções propostas e a identificação antecipada de possíveis melhorias ao longo do processo. Ao final do desenvolvimento, espera-se obter um protótipo funcional capaz de controlar uma cadeira de rodas elétrica de forma remota, segura e confiável, demonstrando a viabilidade da aplicação de sistemas mecatrônicos e tecnologias de comunicação sem fio no desenvolvimento de soluções voltadas à acessibilidade e inclusão.",
+          "alunos": "Giovanny Trindade Caldas e Rene Lopes Dos Santos Gagliano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "",
+          "images": [
+            "Imagens_Joystick_Jr/Projeto_V0_testes_inicial.jpeg",
+            "Imagens_Joystick_Jr/Projeto_Montado_V1.jpeg",
+            "Imagens_Joystick_Jr/Projeto_V1_vista_lateral_2.jpeg",
+            "Imagens_Joystick_Jr/Projeto_V1_vista_lateral.jpeg",
+            "Imagens_Joystick_Jr/cadeira_vista_superior.jpeg",
+            "Imagens_Joystick_Jr/joystick.jpeg",
+            "Imagens_Joystick_Jr/joystick_lateral.jpeg",
+            "Imagens_Joystick_Jr/Nova_base_Madeira.png",
+            "Imagens_Joystick_Jr/Projeto_mesa.jpeg",
+            "Imagens_Joystick_Jr/Projeto_mesa_sobreposicao.jpeg",
+            "Imagens_Joystick_Jr/vista_superior_braço.png",
+            "Imagens_Joystick_Jr/Placa_Eletronica_desenvolvida.jpeg"
+          ],
+          "icon": "ongoing.svg"
+        }
       ]
     }
   }
