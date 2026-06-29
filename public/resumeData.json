@@ -343,20 +343,7 @@
         "video":"",
         "images":["MusicalFig1.png", "MusicalFig2.png", "MusicalFig3.png"],
         "icon": "ongoing.svg" 
-      },
-
-      {
-        "title": "Joystick Junior",
-        "category": "Projetos",
-        "image": "iconeJoystickJunior.jpg",
-        "url": "https://github.com/ReneLopesSilva/Projeto-Joystick-TCW",
-        "text": " O presente trabalho consiste no desenvolvimento de um sistema de controle remoto para cadeiras de rodas elétricas, com o objetivo de permitir sua operação por meio de um dispositivo móvel conectado via Bluetooth. A proposta surgiu da necessidade de criar uma solução acessível, segura e de fácil instalação, capaz de ampliar as possibilidades de utilização de cadeiras de rodas motorizadas sem a necessidade de intervenções permanentes em sua estrutura ou eletrônica original. O projeto está inserido na área de Tecnologia Assistiva e integra conhecimentos de mecânica, eletrônica, sistemas embarcados e desenvolvimento de software. Seu principal diferencial está na adoção de uma arquitetura não invasiva, na qual o sistema não realiza qualquer modificação nos circuitos da cadeira de rodas onde é empregado. Em vez disso, foi projetado um dispositivo externo que se acopla ao joystick original da cadeira e reproduz mecanicamente os movimentos necessários para o controle da direção do equipamento. O funcionamento do sistema é baseado na comunicação sem fio entre um aplicativo móvel e um microcontrolador embarcado. Por meio do aplicativo, o usuário pode enviar comandos de movimentação utilizando uma interface gráfica simples e intuitiva. Esses comandos são transmitidos via Bluetooth para um microcontrolador ESP32, responsável por processar as informações recebidas e comandar os atuadores eletromecânicos instalados no dispositivo. Os atuadores movimentam o joystick da cadeira de rodas de forma controlada, reproduzindo os mesmos movimentos que seriam realizados manualmente por um usuário. Para a implementação da solução, foram empregados motores de passo para garantir precisão de posicionamento e torque necessários, drivers eletrônicos para controle dos motores, sensores para monitoramento da posição dos mecanismos e sistemas de proteção elétrica e operacional. Além disso, foram incorporados recursos de segurança, como parada de emergência e retorno automático do joystick para a posição neutra em situações de falha ou perda de comunicação, visando minimizar riscos durante a operação. O desenvolvimento do projeto está sendo conduzido de forma incremental, contemplando etapas de levantamento de requisitos, benchmarking de soluções existentes, definição da arquitetura do sistema, modelagem mecânica, seleção de componentes eletrônicos, prototipagem, desenvolvimento de firmware, desenvolvimento do aplicativo móvel e integração entre os subsistemas. Essa metodologia permite a validação contínua das soluções propostas e a identificação antecipada de possíveis melhorias ao longo do processo. Ao final do desenvolvimento, espera-se obter um protótipo funcional capaz de controlar uma cadeira de rodas elétrica de forma remota, segura e confiável, demonstrando a viabilidade da aplicação de sistemas mecatrônicos e tecnologias de comunicação sem fio no desenvolvimento de soluções voltadas à acessibilidade e inclusão.",
-        "alunos": "Giovanny Trindade Caldas e Rene Lopes Dos Santos Gagliano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
-        "video": "",
-        "images":["Imagens_Joystick_Jr/Projeto_V0_testes_inicial.jpeg","Imagens_Joystick_Jr/Projeto_Montado_V1.jpeg","Imagens_Joystick_Jr/Projeto_V1_vista_lateral_2.jpeg","Imagens_Joystick_Jr/Projeto_V1_vista_lateral.jpeg","Imagens_Joystick_Jr/cadeira_vista_superior.jpeg","Imagens_Joystick_Jr/joystick.jpeg","Imagens_Joystick_Jr/joystick_lateral.jpeg","Imagens_Joystick_Jr/Nova_base_Madeira.png","Imagens_Joystick_Jr/Projeto_mesa.jpeg","Imagens_Joystick_Jr/Projeto_mesa_sobreposicao.jpeg","Imagens_Joystick_Jr/vista_superior_braço.png","Imagens_Joystick_Jr/Placa_eletronica_desenvolvida.jpeg"],
-        "icon": "ongoing.svg"
       }
-
       ]
     }
   }
