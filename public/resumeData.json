@@ -112,6 +112,16 @@
         "name": "Joystick Junior",
         "level": "90%",
         "status": "ongoing"
+      },
+      {
+        "name": "App. Conversor",
+        "level": "90%",
+        "status": "ongoing"
+      },
+      {
+        "name": "Minicurso SolidWorks Modelagem 3D",
+        "level": "90%",
+        "status": "ongoing"
       }
     ]
   },
@@ -383,7 +393,7 @@
         {
           "title": "Joystick Junior",
           "category": "Projetos",
-          "image": "iconeJoystickJunior.jpg",
+          "image": "iconeJoystickJunior.png",
           "url": "https://github.com/ReneLopesSilva/Projeto-Joystick-TCW",
           "text": " O presente trabalho consiste no desenvolvimento de um sistema de controle remoto para cadeiras de rodas elétricas, com o objetivo de permitir sua operação por meio de um dispositivo móvel conectado via Bluetooth. A proposta surgiu da necessidade de criar uma solução acessível, segura e de fácil instalação, capaz de ampliar as possibilidades de utilização de cadeiras de rodas motorizadas sem a necessidade de intervenções permanentes em sua estrutura ou eletrônica original. O projeto está inserido na área de Tecnologia Assistiva e integra conhecimentos de mecânica, eletrônica, sistemas embarcados e desenvolvimento de software. Seu principal diferencial está na adoção de uma arquitetura não invasiva, na qual o sistema não realiza qualquer modificação nos circuitos da cadeira de rodas onde é empregado. Em vez disso, foi projetado um dispositivo externo que se acopla ao joystick original da cadeira e reproduz mecanicamente os movimentos necessários para o controle da direção do equipamento. O funcionamento do sistema é baseado na comunicação sem fio entre um aplicativo móvel e um microcontrolador embarcado. Por meio do aplicativo, o usuário pode enviar comandos de movimentação utilizando uma interface gráfica simples e intuitiva. Esses comandos são transmitidos via Bluetooth para um microcontrolador ESP32, responsável por processar as informações recebidas e comandar os atuadores eletromecânicos instalados no dispositivo. Os atuadores movimentam o joystick da cadeira de rodas de forma controlada, reproduzindo os mesmos movimentos que seriam realizados manualmente por um usuário. Para a implementação da solução, foram empregados motores de passo para garantir precisão de posicionamento e torque necessários, drivers eletrônicos para controle dos motores, sensores para monitoramento da posição dos mecanismos e sistemas de proteção elétrica e operacional. Além disso, foram incorporados recursos de segurança, como parada de emergência e retorno automático do joystick para a posição neutra em situações de falha ou perda de comunicação, visando minimizar riscos durante a operação. O desenvolvimento do projeto está sendo conduzido de forma incremental, contemplando etapas de levantamento de requisitos, benchmarking de soluções existentes, definição da arquitetura do sistema, modelagem mecânica, seleção de componentes eletrônicos, prototipagem, desenvolvimento de firmware, desenvolvimento do aplicativo móvel e integração entre os subsistemas. Essa metodologia permite a validação contínua das soluções propostas e a identificação antecipada de possíveis melhorias ao longo do processo. Ao final do desenvolvimento, espera-se obter um protótipo funcional capaz de controlar uma cadeira de rodas elétrica de forma remota, segura e confiável, demonstrando a viabilidade da aplicação de sistemas mecatrônicos e tecnologias de comunicação sem fio no desenvolvimento de soluções voltadas à acessibilidade e inclusão.",
           "alunos": "Giovanny Trindade Caldas e Rene Lopes Dos Santos Gagliano. Coordenação: Prof. Marcos Eduardo P. Monteiro",
@@ -402,6 +412,39 @@
             "vista_superior_braco.png",
             "Placa_Eletronica_desenvolvida.jpeg"
           ],
+          "icon": "ongoing.svg"
+        },
+        {
+          "title": "App. Conversor",
+          "category": "Projetos",
+          "image": "iconeConversorApp.png",
+          "url": "https://github.com/TechnologicalCraftsmanship/SimNaNa",
+          "text": "O presente trabalho consiste no desenvolvimento de uma plataforma computacional para modelagem, análise, simulação e projeto de controladores para sistemas dinâmicos, desenvolvida em Python com suporte a recursos do MATLAB. O principal objetivo do software é disponibilizar um ambiente que auxilie na modelagem matemática de sistemas, na análise de seu comportamento dinâmico, na validação dos modelos obtidos e no projeto de controladores, reunindo em uma única interface as principais ferramentas utilizadas nessas etapas. A área de atuação do projeto está voltada para a Engenharia de Controle e Automação, Engenharia Elétrica e áreas correlatas, abrangendo aplicações em sistemas dinâmicos lineares e não lineares, eletrônica de potência e controle de sistemas. Entre as principais funcionalidades desenvolvidas destacam-se a modelagem de sistemas em espaço de estados, geração de funções de transferência, obtenção de modelos linearizados por pequenos sinais, simulações no domínio do tempo, análise por diagramas de Bode, projeto de controladores P, PI e PID, técnicas de realimentação de estados, ambiente gráfico para construção de diagramas de blocos, comparação de resultados com simulações realizadas no PSIM e ferramentas para personalização e exportação de gráficos. O funcionamento da plataforma baseia-se principalmente em bibliotecas científicas da linguagem Python, como NumPy, SciPy, SymPy, Matplotlib e PyQt6, utilizando o MATLAB apenas em funcionalidades específicas relacionadas ao projeto de controladores. Dessa forma, o software oferece um fluxo de trabalho que permite modelar sistemas dinâmicos, analisar seu comportamento, validar os modelos desenvolvidos e projetar controladores em um ambiente gráfico único, facilitando atividades de estudo, pesquisa e desenvolvimento na área de sistemas de controle.",
+          "alunos": "Gabriel Carneiro Da Cunha Diniz, João De Almeida Neto e Rafael Diego De Oliveira. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "IobSKL9Qz9I",
+          "images": [
+            "SimNaNa_image_1.png",
+            "SimNaNa_image_2.png",
+            "SimNaNa_image_3.png",
+            "SimNaNa_image_4.png",
+            "SimNaNa_image_5.png",
+            "SimNaNa_image_6.png",
+            "SimNaNa_image_7.png"
+          ],
+          "icon": "ongoing.svg"
+        },
+        {
+          "title": "Minicurso SolidWorks Modelagem 3D",
+          "category": "Projetos",
+          "image": "iconeSolidWorks.png",
+          "url": "https://www.youtube.com/watch?v=sYU24LaDUl4&list=PLTQUNqIwf4pw",
+          "text": "Minicurso SolidWorks: Do Zero ao Desenho Técnico Avançado. Aula 1 - Introdução e Primeiros Passos: nesta aula, são apresentados a interface do SolidWorks, os primeiros esboços e a criação das primeiras peças 3D. O conteúdo aborda a escolha do plano correto, o uso de ferramentas essenciais de desenho, como linhas, círculos, retângulos e splines, além da aplicação de dimensão inteligente e relações geométricas. Ao final, o desenho 2D é transformado em um sólido 3D por meio de extrusão e revolução, com aplicação de filetes, chanfros, casca e espelhamento. Aula 2 - Modelagem Avançada: esta aula explora ferramentas avançadas de modelagem, incluindo Loft, Varredura, Esboço 3D e Superfícies, permitindo a criação de geometrias mais complexas a partir de múltiplos perfis e caminhos tridimensionais. Aula 3 - Introdução ao Desenho Técnico: nesta etapa, é apresentado o ambiente de desenho técnico do SolidWorks, com configuração de folha, posicionamento de vistas ortográficas, ajuste de escalas, criação de vistas de detalhe e vistas de secção para revelar elementos internos e melhorar a clareza técnica. Aula 4 - Cotagem e Tolerâncias: a última aula é dedicada à cotagem avançada, tolerâncias geométricas, TED e Feature of Size. São abordadas formas de cotar comprimentos, ângulos, raios e diâmetros de maneira limpa e legível, além dos conceitos de dimensões mensuráveis e dimensões teoricamente exatas controladas por tolerâncias geométricas.",
+          "alunos": "André Luis Janzen. Coordenação: Prof. Marcos Eduardo P. Monteiro",
+          "video": "sYU24LaDUl4",
+          "video1": "Zj3Tjz5xIrs",
+          "video2": "2cXeylPwNQk",
+          "video3": "wK2aculGPDk",
+          "images": [],
           "icon": "ongoing.svg"
         }
       ]
